@@ -23,6 +23,12 @@ lppm_install("luciangreen","Time_Machine")
 halt
 ```
 
+# Caution:
+
+* Before running texttobr, think of two radio buttons put on recordings, put through with prayer, nut and bolt, quantum box prayer 1, 1, 0.5 cm and 1, 1, 0.5 cm.
+
+* Follow instructions in <a href="https://github.com/luciangreen/Text-to-Breasonings/blob/master/Instructions_for_Using_texttobr(2).pl.txt">Instructions for Using texttobr(2)</a> when using texttobr, texttobr2 or mind reader to avoid medical problems.
+
 # Running
 
 * In Shell:
