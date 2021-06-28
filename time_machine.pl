@@ -51,11 +51,11 @@ time_machine :-
 		% 3 (A,B,B to B)* 64 (4*50 As of 250 br)=192
 		texttobr2_1(192),% turn entity into a bot
 		texttobr2_1(192),% everyone travels in a comfortable lead time machine with 1 cm thick walls for safety
-		Quarter_minutes_away is Input5a+4,
-		N3 is Quarter_minutes_away+192,
+		Quarter_minutes_away is Input5a*4,
+		N3 is Quarter_minutes_away*192,
 		texttobr2_1(N3),% provides support for a thought every 15 seconds
-		Seconds_away is Input5a+60,
-		N2 is Seconds_away+192,
+		Seconds_away is Input5a*60,
+		N2 is Seconds_away*192,
 		texttobr2_1(N2),% provide return lifeline each second - note everyone travels together
 	
 		texttobr2_1(192),% travel to time and place
