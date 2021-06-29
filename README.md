@@ -1,5 +1,6 @@
 # Time_Machine
 
+* Warning: Changing the algorithm to not include meditation may be fatal.
 * Travel through time with meditation.
 
 * "I can convert myself to a bot, convert shadow bots to bots (allowing people and finance) and time travel as a bot (all with 250 breasonings).  There is a lag while people are ready for you to time travel."
