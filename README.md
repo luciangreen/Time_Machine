@@ -60,7 +60,7 @@ When do you want to travel to?
 |: now
 Where do you want to travel to?
 |: here
-How many hours do you want to return after
+How many hours do you want to return after?
 |: 1
 Do you want to travel now (y/n)?
 |: y
