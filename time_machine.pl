@@ -26,7 +26,7 @@ time_machine :-
 		writeln(Note5),
 		read_string(user_input,"\n\r","\n\r",_,_Input4),
 		%repeat,
-		concat_list(["How many hours do you want to return after"],Note6),
+		concat_list(["How many hours do you want to return after?"],Note6),
 		writeln(Note6),
 		read_string(user_input,"\n\r","\n\r",_,Input5),
 		((number_string(Input5a,Input5),number(Input5a))->true;false),
