@@ -49,7 +49,7 @@ Time Machine
 
 Warning: This software is to be used at your own risk.  Please read the Instructions for TextToBr to avoid medical problems before use.
 
-This time machine will transport you and named friends to a place and time and back before a specified time.  You may come back before the given time with the thought command, "I want to time travel back to the same place in my own time line, the same amount of time relative to when I left".,
+This time machine will transport you and named friends to a place and time and back before a specified time.  You may come back before the given time with the thought command, "I want to time travel back to the same place in my own time line, the same amount of time relative to when I left".
 
 Please wear clothes appropriate for the time and determine whether it is a good time to travel, especially in the past and using predictions of the future.
 Do you want to continue (y/n)?
