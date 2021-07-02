@@ -25,7 +25,7 @@ git clone https://github.com/luciangreen/List-Prolog-Package-Manager.git
 cd List-Prolog-Package-Manager
 swipl
 ['lppm'].
-lppm_install("luciangreen","Time_Machine")
+lppm_install("luciangreen","Time_Machine").
 halt
 ```
 
