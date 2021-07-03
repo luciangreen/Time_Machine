@@ -14,7 +14,7 @@ Image of blue vertical lines disappearing into a vanishing point (Photo by <a hr
 
 # 1. Install manually
 
-Download <a href="http://github.com/luciangreen/Time_Machine/">this repository</a>, <a href="http://github.com/luciangreen/listprologinterpreter/">List Prolog Interpreter</a>, <a href="http://github.com/luciangreen/Prolog-to-List-Prolog/">Prolog to List Prolog</a>, the <a href="https://github.com/luciangreen/Text-to-Breasonings">Text-to-Breasonings repository</a> and the repositories these repositories depend on.
+Download <a href="http://github.com/luciangreen/Time_Machine/">this repository</a>, <a href="http://github.com/luciangreen/listprologinterpreter/">List Prolog Interpreter</a>,  the <a href="https://github.com/luciangreen/Text-to-Breasonings">Text-to-Breasonings repository</a> and the repositories these repositories depend on.
 
 # 2. Or Install from List Prolog Package Manager (LPPM)
 
