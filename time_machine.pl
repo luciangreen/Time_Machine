@@ -67,4 +67,4 @@ time_machine :-
 	);
 	(writeln("Execution aborted."),abort)),!.
 
-texttobr2_1(N) :- texttobr2(N),!.
+%texttobr2_1(N) :- texttobr2(N),!.
