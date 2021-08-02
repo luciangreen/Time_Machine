@@ -16,7 +16,7 @@ Image of blue vertical lines disappearing into a vanishing point (Photo by <a hr
 
 # 1. Install manually
 
-Download <a href="http://github.com/luciangreen/Time_Machine/">this repository</a>, <a href="http://github.com/luciangreen/listprologinterpreter/">List Prolog Interpreter</a>,  the <a href="https://github.com/luciangreen/Text-to-Breasonings">Text-to-Breasonings repository</a> and the repositories these repositories depend on.
+Download <a href="http://github.com/luciangreen/Time_Machine/">this repository</a>, <a href="http://github.com/luciangreen/mindreader/">Mind Reader</a>, <a href="http://github.com/luciangreen/listprologinterpreter/">List Prolog Interpreter</a>,  the <a href="https://github.com/luciangreen/Text-to-Breasonings">Text-to-Breasonings repository</a> and the repositories these repositories depend on.
 
 # 2. Or Install from List Prolog Package Manager (LPPM)
 
@@ -45,10 +45,16 @@ halt
 `cd Time_Machine`
 `swipl`
 `['time_machine.pl'].`
+`physical_or_mental_danger_detector(120).`
+where 120 is the number of minutes to time travel at the destination.
+```
+[0,physical_or_mental_dangers]
+true.
+```
+
 `time_machine.`
 
 ```
-[debug]  ?- time(time_machine).
 Time Machine
 
 Warning: This software is to be used at your own risk.  Please read the Instructions for TextToBr to avoid medical problems before use.
@@ -68,7 +74,6 @@ How many hours do you want to return after?
 |: 1
 Do you want to travel now (y/n)?
 |: y
-% 19,615 inferences, 0.616 CPU in 13.338 seconds (5% CPU, 31851 Lips)
 true.
 
 [debug]  ?- texttobr2_1(6). % to turn off and return 2 travellers using A,B,B to B

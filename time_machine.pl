@@ -5,6 +5,7 @@
 :-include('../Text-to-Breasonings/text_to_breasonings.pl').
 :-include('../Text-to-Breasonings/meditationnoreplace2.pl').
 :-include('../listprologinterpreter/la_maths.pl').
+:-include('physical_or_mental_danger_detector.pl').
 
 time_machine :-
 	concat_list(["Time Machine","\n\n","Warning: This software is to be used at your own risk.  Please read the Instructions for TextToBr to avoid medical problems before use.","\n\n","This time machine will transport you and named friends to a place and time and back before a specified time.  You may come back before the given time with the thought command, \"I want to time travel back to the same place in my own time line, the same amount of time relative to when I left\".,","\n\n","Please wear clothes appropriate for the time and determine whether it is a good time to travel, especially in the past and using predictions of the future."],Note1),writeln(Note1),
