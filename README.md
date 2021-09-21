@@ -2,7 +2,7 @@
 Image of blue vertical lines disappearing into a vanishing point (Photo by <a href="https://freeimages.com/photographer/shadowkill-45148">Maxime Perron Caissy</a> from <a href="https://freeimages.com">FreeImages</a>)
 
 * Short cut: `texttobr2_1(1).` with radiation switched off gives "appearance time travel".  This means people from the times will walk past you wearing clothes and surrounded by the setting of your current time.  Your computer will work and you can go home and recharge it to time travel to your home again.  A bot representing you will appear at home while you are time travelling and bots representing those from your home will appear to you while you are time travelling.
-* 
+
 # Time_Machine
 
 * Warning: Changing the algorithm to not include meditation may be fatal.  You should meditate with 80 arems before and after travel.
