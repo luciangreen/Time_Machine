@@ -6,7 +6,7 @@
 
 * <a href="https://www.lucianacademy.com/files/Philosophy/LucianGreensPhilosophyOctober2021/Immortality%20Medicine.txt">Immortality medicine</a> to stop dementia, have clear sight, think clearly, etc. in Immortality.
 
-* <a href="https://www.lucianacademy.com/files/Philosophy/LucianGreensPhilosophyOctober2021/50%20Bs%20to%20medical%20problems%20in%20immortality.txt">50 As to turn off medical problems</a> from each department yu have been developed about to activate Immortality.
+* <a href="https://www.lucianacademy.com/files/Philosophy/LucianGreensPhilosophyOctober2021/50%20Bs%20to%20medical%20problems%20in%20immortality.txt">50 As to turn off medical problems</a> from each department you have been developed about to activate Immortality.
 
 * As an aside, <a href="https://www.lucianacademy.com/files/Philosophy/LucianGreensPhilosophySeptember2021/seminar%20in%20all%20depts%20every%202%20weeks.txt">watch videos from University departments every week</a> (with 50 As each, breasoned out with <a href="https://github.com/luciangreen/Text-to-Breasonings">Text to Breasonings</a>) for professional development.
 
