@@ -39,6 +39,8 @@ halt
 
 * The <a href="https://www.lucianacademy.com/apps/preventheadaches.html">Prevent Headaches App</a> may be necessary.
 
+* <a href="Immortality.md">Instructions on becoming immortal</a>
+
 # Running
 
 * In Shell:
