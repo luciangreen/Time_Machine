@@ -4,9 +4,9 @@
 
 * Read <a href="https://www.lucianacademy.com/files/Philosophy/LucianGreensPhilosophyAugust2021/Immortality.txt">Immortality entry 1</a> for instructions on how to enter the simulation to be immortal.  You can indicate to become immortal.
 
-* 50 As for <a href="https://www.lucianacademy.com/files/Philosophy/LucianGreensPhilosophyOctober2021/Immortality%20Medicine.txt">Immortality medicine</a> to stop dementia, have clear sight, think clearly, etc. each month in Immortality.
+* Switch for <a href="https://www.lucianacademy.com/files/Philosophy/LucianGreensPhilosophyOctober2021/Immortality%20Medicine.txt">Immortality medicine</a> to stop dementia, have clear sight, think clearly, etc. each month in Immortality.
 
-* <a href="https://www.lucianacademy.com/files/Philosophy/LucianGreensPhilosophyOctober2021/50%20Bs%20to%20medical%20problems%20in%20immortality.txt">50 As to turn off medical problems</a> once from each department you have been developed about to activate Immortality.
+* <a href="https://www.lucianacademy.com/files/Philosophy/LucianGreensPhilosophyOctober2021/50%20Bs%20to%20medical%20problems%20in%20immortality.txt">Switch to turn off medical problems</a> once from each department you have been developed about to activate Immortality.
 
 * The custodians, the robots, require residents to think of an English (autobiographical) statement to be thought of per day.
 
