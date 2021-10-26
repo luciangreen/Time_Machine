@@ -41,6 +41,8 @@ halt
 
 * <a href="Immortality.md">Instructions on becoming immortal</a>
 
+* Text to Breasonings (but not hand-breasonings) should only be used in home times because robots do not support it.
+
 # Running
 
 * In Shell:
