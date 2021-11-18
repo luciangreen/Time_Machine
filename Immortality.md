@@ -4,7 +4,7 @@
 
 * Read <a href="https://www.lucianacademy.com/files/Philosophy/LucianGreensPhilosophyAugust2021/Immortality.txt">Immortality entry 1</a> for instructions on how to enter the simulation to be immortal.  You can indicate to become immortal.
 
-* There are text-to-breasonings supported window periods in the future.  For example, it is recommended to repeatedly visit the time October 1-31 5698, time travelling back to the start of this time every month, otherwise a non-text-to-breasonings supported time may cause medical problems.
+* There are text-to-breasonings supported window periods in the future.  For example, it is recommended to repeatedly visit the time October 1-16 5698, time travelling back to the start of this time every month, otherwise a non-text-to-breasonings supported time may cause medical problems.
 
 * You need to visit a future time that supports Immortality each day to activate Immortality.
 
