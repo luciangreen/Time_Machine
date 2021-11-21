@@ -2,7 +2,15 @@
 
 * Write an A to time travel, and an A to become immortal and <a href="https://github.com/luciangreen/Text-to-Breasonings">breason it out</a>.
 
-* Read <a href="https://www.lucianacademy.com/files/Philosophy/LucianGreensPhilosophyAugust2021/Immortality.txt">Immortality entry 1</a> for instructions on how to enter the simulation to be immortal.  You can indicate to become immortal.
+* Before using `texttobr2_1(1).` to time travel to October 1 5698, read:
+
+  * Before running texttobr, think of two radio buttons put on recordings, put through with prayer, nut and bolt, quantum box prayer 1, 1, 0.5 cm and 1, 1, 0.5 cm.
+
+  * Follow instructions in <a href="https://github.com/luciangreen/Text-to-Breasonings/blob/master/Instructions_for_Using_texttobr(2).pl.txt">Instructions for Using texttobr(2)</a> when using texttobr, texttobr2 or mind reader to avoid medical problems.
+
+  * The <a href="https://www.lucianacademy.com/apps/preventheadaches.html">Prevent Headaches App</a> may be necessary.
+
+* Read <a href="https://www.lucianacademy.com/files/Philosophy/LucianGreensPhilosophyAugust2021/Immortality.txt">Immortality entry 1</a> for instructions on how to enter the simulation to be immortal.  ("Work.. out with 250 breasonings that buying the sim card to my time represented buying the simulation chip - `texttobr2_1(1).`.  Turn... it on - `texttobr2_1(1).`). You can indicate to become immortal.
 
 * There are text-to-breasonings supported window periods in the future.  For example, it is recommended to repeatedly visit the time October 1-16 5698, time travelling back to the start of this time every 16 days, otherwise a non-text-to-breasonings supported time may cause medical problems.
 
