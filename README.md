@@ -1,8 +1,6 @@
 ![lines-1171160](https://user-images.githubusercontent.com/15845542/124043330-28198f00-da4e-11eb-8703-37e03cda6b73.jpg)
 Image of blue vertical lines disappearing into a vanishing point (Photo by <a href="https://freeimages.com/photographer/shadowkill-45148">Maxime Perron Caissy</a> from <a href="https://freeimages.com">FreeImages</a>)
 
-* Mind Reader and Text-to-Breasonings are not compatible with the future simulation.
-
 * Short cut: `texttobr2_1(1).` with radiation switched off gives "appearance time travel".  This means people from the times will walk past you wearing clothes and surrounded by the setting of your current time.  Your computer will work and you can go home and recharge it to time travel to your home again.  A bot representing you will appear at home while you are time travelling and bots representing those from your home will appear to you while you are time travelling.
 
 # Time_Machine
