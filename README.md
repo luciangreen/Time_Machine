@@ -37,7 +37,7 @@ halt
 
 * Follow instructions in <a href="https://github.com/luciangreen/Text-to-Breasonings/blob/master/Instructions_for_Using_texttobr(2).pl.txt">Instructions for Using texttobr(2)</a> when using texttobr, texttobr2 or mind reader to avoid medical problems.
 
-* The <a href="https://www.lucianacademy.com/apps/preventheadaches.html">Prevent Headaches App</a> may be necessary.
+* The <a href="Prevent-Headaches.md">Prevent Headaches App</a> may be necessary.
 
 * <a href="Immortality.md">Instructions on becoming immortal</a>
 

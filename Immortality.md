@@ -8,7 +8,7 @@
 
   * Follow instructions in <a href="https://github.com/luciangreen/Text-to-Breasonings/blob/master/Instructions_for_Using_texttobr(2).pl.txt">Instructions for Using texttobr(2)</a> when using texttobr, texttobr2 or mind reader to avoid medical problems.
 
-  * The <a href="https://www.lucianacademy.com/apps/preventheadaches.html">Prevent Headaches App</a> may be necessary.
+  * The <a href="Prevent-Headaches.md">Prevent Headaches App</a> may be necessary.
 
 * Read <a href="https://www.lucianacademy.com/files/Philosophy/LucianGreensPhilosophyAugust2021/Immortality.txt">Immortality entry 1</a> for instructions on how to enter the simulation to be immortal.  ("Work.. out with 250 breasonings that buying the sim card to my time represented buying the simulation chip - `texttobr2_1(1).`.  Turn... it on - `texttobr2_1(1).`). You can indicate to become immortal.
 
