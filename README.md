@@ -1,8 +1,6 @@
 ![lines-1171160](https://user-images.githubusercontent.com/15845542/124043330-28198f00-da4e-11eb-8703-37e03cda6b73.jpg)
 Image of blue vertical lines disappearing into a vanishing point (Photo by <a href="https://freeimages.com/photographer/shadowkill-45148">Maxime Perron Caissy</a> from <a href="https://freeimages.com">FreeImages</a>)
 
-* Short cut: `texttobr2_1(1).` with radiation switched off gives "appearance time travel".  This means people from the times will walk past you wearing clothes and surrounded by the setting of your current time.  Your computer will work and you can go home and recharge it to time travel to your home again.  A bot representing you will appear at home while you are time travelling and bots representing those from your home will appear to you while you are time travelling.
-
 # Time_Machine
 
 * Warning: Changing the algorithm to not include meditation may be fatal.  You should meditate with 80 arems before and after travel.
@@ -16,7 +14,7 @@ Image of blue vertical lines disappearing into a vanishing point (Photo by <a hr
 
 # 1. Install manually
 
-Download <a href="http://github.com/luciangreen/Time_Machine/">this repository</a>, <a href="http://github.com/luciangreen/mindreader/">Mind Reader</a>, <a href="http://github.com/luciangreen/listprologinterpreter/">List Prolog Interpreter</a>,  the <a href="https://github.com/luciangreen/Text-to-Breasonings">Text-to-Breasonings repository</a> and the repositories these repositories depend on.
+Download <a href="http://github.com/luciangreen/Time_Machine/">this repository</a>, <a href="http://github.com/luciangreen/Lucian-Academy/">Lucian-Academy</a>, <a href="http://github.com/luciangreen/listprologinterpreter/">List Prolog Interpreter</a>,  the <a href="https://github.com/luciangreen/Text-to-Breasonings">Text-to-Breasonings repository</a> and the repositories these repositories depend on.
 
 # 2. Or Install from List Prolog Package Manager (LPPM)
 
@@ -41,42 +39,27 @@ halt
 
 * <a href="Immortality.md">Instructions on becoming immortal</a>
 
+* Running Time Machine requires the Text to Breasonings algorithm, which requires:
+- Meditation before running the algorithm and after arriving at a time travel destination.
+- Understanding of the Pedagogy (breasoning) skill, activated by a University short course in Education.
+- Recordings skill, which is activated by a person who has this skill after breasoning out a Recordings High Distinction.
+- <a href="https://github.com/luciangreen/Text-to-Breasonings/blob/master/Instructions_for_Using_texttobr(2).pl.txt">Other requirements</a>, including the Lecturer skill
+- The window (ability) to time travel may disappear soon after learning the time travel skill, so it is advisable to travel to the time in <a href="Immortality.md">Instructions on becoming immortal</a> to gain a permanent time travel skill.
+- The courses above required for time travel are included in the algorithm below (so they may not be required apart from the High Distinction texts in the algorithm).
+
 # Running
 
 * In Shell:
 `cd Time_Machine`
-`swipl`
+`swipl` or possibly `swipl --stack-limit=4G` if more memory is needed
 `['time_machine.pl'].`
-`physical_or_mental_danger_detector(120).`
-where 120 is the number of minutes to time travel at the destination.
-```
-[0,physical_or_mental_dangers]
-true.
-```
+`time_machine_prepare.` to breason out necessary courses for time travel including:
+- Delegate workloads, Lecturer, Recordings
+- Fundamentals of Meditation and Meditation Indicators
+- Fundamentals of Pedagogy and Pedagogy Indicators
+- Lecturer
+- Medicine
+- Mind Reading
+- Time Travel
 
-`time_machine.`
-
-```
-Time Machine
-
-Warning: This software is to be used at your own risk.  Please read the Instructions for TextToBr to avoid medical problems before use.
-
-This time machine will transport you and named friends to a place and time and back before a specified time.  You may come back before the given time with the thought command, "I want to time travel back to the same place in my own time line, the same amount of time relative to when I left".
-
-Please wear clothes appropriate for the time and determine whether it is a good time to travel, especially in the past and using predictions of the future.
-Do you want to continue (y/n)?
-|: y
-How many people and animals are travelling, including you?
-|: 2
-When do you want to travel to?
-|: now
-Where do you want to travel to?
-|: here
-How many hours do you want to return after?
-|: 1
-Do you want to travel now (y/n)?
-|: y
-true.
-
-[debug]  ?- texttobr2_1(6). % to turn off and return 2 travellers using A,B,B to B
-```
+* To time travel: `texttobr2_1(1).` with radiation switched off gives "appearance time travel".  This means people from the times will walk past you wearing clothes and surrounded by the setting of your current time.  Your computer will work and you can go home and recharge it to time travel to your home again.  A bot representing you will appear at home while you are time travelling and bots representing those from your home will appear to you while you are time travelling.
