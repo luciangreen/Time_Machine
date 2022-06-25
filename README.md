@@ -6,7 +6,6 @@ Image of blue vertical lines disappearing into a vanishing point (Photo by <a hr
 * Warning: Changing the algorithm to not include meditation may be fatal.  You should meditate with 80 arems before and after travel.
 * Travel through time with meditation.
 * <a href="https://www.youtube.com/watch?v=YojBn1UcFKo&t=14s">Youtube video</a>
-* 
 * "I can convert myself to a bot, convert shadow bots to bots (allowing people and finance) and time travel as a bot (all with 250 breasonings).  There is a lag while people are ready for you to time travel."
 
 # Prerequisites
