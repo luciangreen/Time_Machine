@@ -13,7 +13,7 @@ The nut and bolt is a guided meditation that is a more detailed prevention of pr
 * Daily Regimen
 Indicate 2 radio buttons (one for each of the following ideas, and one for each of these ideas working anyway, where a radio button is indicated by breasoning out, or thinking of the x, y and z dimensions of a counter, 0.01, 0.01, 0.005 metres).
 Too (just say “too” for each idea following to indicate the two radio buttons)
-meditation (80 arem mantras and 80 green sutras)
+meditation (108 arem mantras and 108 green sutras)
 Also for the following, which also have quantum box and nut and bolt:
 No digestive system pops from practising the sutra
 
