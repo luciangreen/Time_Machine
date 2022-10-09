@@ -12,7 +12,9 @@
 
 * Read <a href="https://www.lucianacademy.com/files/Philosophy/LucianGreensPhilosophyAugust2021/Immortality.txt">Immortality entry 1</a> for instructions on how to enter the simulation to be immortal.  ("Work.. out with 250 breasonings that buying the sim card to my time represented buying the simulation chip - `texttobr2_1(1).`.  Turn... it on - `texttobr2_1(1).`). You can indicate to become immortal.
 
-* There are text-to-breasonings supported window periods in the future.  For example, it is recommended to repeatedly visit the time October 1-16 5689, time travelling back to the start of this time every 16 days, otherwise a non-text-to-breasonings supported time may cause medical problems.  Returning to one's home time each day prevents the home bot (you) dying.
+* There are text-to-breasonings supported window periods in the future.  For example, it is recommended to repeatedly visit the time October 1-16 5689, time travelling back to the start of this time every 16 days, otherwise a non-text-to-breasonings supported time may cause medical problems.
+
+* Unfortunately, immortality (not necessarily time travel) causes the home bot (representing you) dying but living on the same life in the simulation (freezing your age, etc.) after 3 months.  More information will be posted soon about ways to "unify reality and the simulation", helping a new home bot to achieve your goals and using replicators.
 
 * You need to visit a future time that supports Immortality each day to activate Immortality.
 
