@@ -14,7 +14,7 @@
 
 * There are text-to-breasonings supported window periods in the future.  For example, it is recommended to repeatedly visit the time October 1-16 5689, time travelling back to the start of this time every 16 days, otherwise a non-text-to-breasonings supported time may cause medical problems.
 
-* Unfortunately, immortality (not necessarily time travel) causes the home bot (representing you) dying but living on the same life in the simulation (freezing your age, etc.) after 3 months.  More information will be posted soon about ways to "unify reality and the simulation", helping a new home bot to achieve your goals and using replicators.  Before 3 months, breason out 4*50 As to freeze one's age and stay in the world.
+* Unfortunately, immortality (not necessarily time travel) causes the home bot (representing you) dying but living on the same life in the simulation (freezing your age, etc.) after 3 months.  More information will be posted soon about ways to "unify reality and the simulation", helping a new home bot to achieve your goals and using replicators.  
 
 * You need to visit a future time that supports Immortality each day to activate Immortality.
 
