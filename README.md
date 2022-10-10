@@ -4,6 +4,7 @@ Image of blue vertical lines disappearing into a vanishing point (Photo by <a hr
 # Time_Machine
 
 * Warning: Changing the algorithm to not include meditation may be fatal.  You should meditate with 108 arems before and after travel.
+* Warning: Time travel and immortality may move your life to the simulation, ending it in the world.  Read <a href="Immortality.md">Instructions on becoming immortal</a>.
 * Travel through time with meditation.
 * <a href="https://www.youtube.com/watch?v=YojBn1UcFKo&t=14s">Youtube video</a>
 * "I can convert myself to a bot, convert shadow bots to bots (allowing people and finance) and time travel as a bot (all with 250 breasonings).  There is a lag while people are ready for you to time travel."
