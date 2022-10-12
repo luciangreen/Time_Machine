@@ -14,8 +14,6 @@
 
 * There are text-to-breasonings supported window periods in the future.  For example, it is recommended to repeatedly visit the time October 1-16 5689, time travelling back to the start of this time every 16 days, otherwise a non-text-to-breasonings supported time may cause medical problems.
 
-* Unfortunately, immortality and time travel cause the home bot (representing you) differing but living in the same life in the simulation (freezing your age, etc.) after 3 months.  More information will be posted soon about ways to "unify reality and the simulation", helping a new home bot to achieve your goals and using replicators. x "Even though I think people think I died, they don't - I appear alive but keep my youth to myself".
-
 * You need to visit a future time that supports Immortality each day to activate Immortality.
 
 * Switch for <a href="https://www.lucianacademy.com/files/Philosophy/LucianGreensPhilosophyOctober2021/Immortality%20Medicine.txt">Immortality medicine</a> to be immortal, replace one's body, stop dementia, have clear sight, think clearly, relax muscles. each month in Immortality.  If necessary, use <a href="https://github.com/luciangreen/Algorithm-Writer-with-Lists">Grammar-Logic</a> to generate 4000 word breasonings for a department, for example Education, generate 4000 word breasonings for B (disagreement with) Education and 4000 word breasonings for B to B to (solve disagreements with) Education, then <a href="https://github.com/luciangreen/Text-to-Breasonings">hand-breason</a> them out.
