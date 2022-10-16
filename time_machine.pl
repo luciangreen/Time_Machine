@@ -5,13 +5,13 @@
 
 time_machine_prepare :-
 
-K=["../Lucian-Academy/Time Travel/",
-"../Lucian-Academy/Fundamentals of Pedagogy and Pedagogy Indicators/",
-"../Lucian-Academy/Medicine/",
-"../Lucian-Academy/Fundamentals of Meditation and Meditation Indicators/",
-"../Lucian-Academy/Lecturer/",
-"../Lucian-Academy/Delegate workloads, Lecturer, Recordings/",
-"../Lucian-Academy/Mind Reading/"
+K=["../Lucian-Academy/Books/Time Travel/",
+"../Lucian-Academy/Books/Fundamentals of Pedagogy and Pedagogy Indicators/",
+"../Lucian-Academy/Books/Medicine/",
+"../Lucian-Academy/Books/Fundamentals of Meditation and Meditation Indicators/",
+"../Lucian-Academy/Books/Lecturer/",
+"../Lucian-Academy/Books/Delegate workloads, Lecturer, Recordings/",
+"../Lucian-Academy/Books/Mind Reading/"
 ],
 
 
