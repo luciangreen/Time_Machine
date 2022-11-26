@@ -3,7 +3,11 @@ Image of blue vertical lines disappearing into a vanishing point (Photo by <a hr
 
 # Time_Machine
 
-* Warning: Changing the algorithm to not include meditation may be fatal.  You should meditate with 108 arems before and after travel.
+* Welcome to Lucian's Time Machine, which offers a positive way of life, extending life for those who would like it, and bringing advanced technology to us so that all may enjoy immortality through meditation.
+* The way of life in the simulation is relaxing, there is no pressure to work and one can live a life on a pension creating art and studying and having fun.
+* Imagine the possibilities: articulating to the top of academia and industry, enjoying the perks of relaxation from activity and preventing the onset of age-related body-breakdown.  
+
+* Warning: Changing the algorithm to not include meditation may be fatal.  You should meditate with 108 arems and 108 greens before and after travel.
 * Travel through time with meditation.
 * <a href="https://www.youtube.com/watch?v=YojBn1UcFKo&t=14s">Youtube video</a>
 * "I can convert myself to a bot, convert shadow bots to bots (allowing people and finance) and time travel as a bot (all with 250 breasonings).  There is a lag while people are ready for you to time travel."
@@ -38,6 +42,8 @@ halt
 * The <a href="Prevent-Headaches.md">Prevent Headaches App</a> may be necessary.
 
 * <a href="Immortality.md">Instructions on becoming immortal</a>
+
+* The <a href="Caveats.md">Immortality Caveats</a> describe ways to enter immortality and more about the simulation.
 
 * Running Time Machine requires the Text to Breasonings algorithm, which requires:
 - Meditation before running the algorithm and after arriving at a time travel destination.
