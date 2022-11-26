@@ -18,7 +18,7 @@
 
 * Switch for <a href="https://www.lucianacademy.com/files/Philosophy/LucianGreensPhilosophyOctober2021/Immortality%20Medicine.txt">Immortality medicine</a> to be immortal, replace one's body, stop dementia, have clear sight, think clearly, relax muscles. each month in Immortality.  If necessary, use <a href="https://github.com/luciangreen/Algorithm-Writer-with-Lists">Grammar-Logic</a> to generate 4000 word breasonings for a department, for example Education, generate 4000 word breasonings for B (disagreement with) Education and 4000 word breasonings for B to B to (solve disagreements with) Education, then <a href="https://github.com/luciangreen/Text-to-Breasonings">hand-breason</a> them out.
 
-* In total, there should be 16,0000 sentences breasoned out for immortality.
+* In total, there should be 16,000 sentences breasoned out for immortality.
 
 * <a href="https://www.lucianacademy.com/files/Philosophy/LucianGreensPhilosophyOctober2021/50%20Bs%20to%20medical%20problems%20in%20immortality.txt">Switch to turn off medical problems</a> once from each department you have been developed about to activate Immortality.  Use <a href="https://github.com/luciangreen/Algorithm-Writer-with-Lists">Grammar-Logic</a> to generate 4000 word breasonings from the list of body systems, generate 4000 word breasonings for B (problems with) body systems and 4000 word breasonings for B to B to (solve problems with) body systems, then use <a href="https://github.com/luciangreen/Text-to-Breasonings">Text-to-Breasonings</a> to breason them out. 
 
