@@ -8,6 +8,7 @@ How to get these skills:
 * For the lecturer skill, I was chosen as a tutor at University - I best understood a subject on Prolog compilers, for which I earned 100% in two assignments, I earned a scholarship to Logic Summer School at ANU, I met my logic professor at an IEEE meeting and was selected as a tutor in the subject.
 * For the recordings skill - Write a number-one song with <a href="https://github.com/luciangreen/Music-Composer/">Music Composer</a> and possibly join an acting agent to earn extras and acting roles, increasing one's "recordings" skills.  I met a cosmologist, wrote a great first song which was aired on the radio, studied a theatre studies short course and joined an acting agent.
 * Mind reading is recommended as the way to write songs with Music Composer for the best results.
+* Lucian (the founder of Time Machine) wrote a number-one song on a radio show, which is optional.
 * As well as the meditation, etc. subjects, I activated my writing ability through Creative Writing, and my pedagogy skill, which formed the basis of the meditation-based subjects, through Education.
 
 Notes:
