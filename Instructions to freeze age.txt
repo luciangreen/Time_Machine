@@ -5,6 +5,9 @@ https://github.com/luciangreen/Philosophy/
 
 The robots are simple minded. The BAG algorithm produces sentences and mock algorithms, which pass the professional requirement of 4*50 sentence As (A=80 sentences) for two destinations per day of 3 time teleportations and 2 medicines for anti-ageing.
 
+Run swipl with flags:
+swipl --stack-limit=80G
+
 Run
 bag_args(80000).
 bag_algs(80000).
