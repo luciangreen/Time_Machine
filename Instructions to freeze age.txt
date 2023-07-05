@@ -20,5 +20,9 @@ Remove "1. \n" and replace "\n\n" with "\n" until none left from these files.
 
 Breason and t2ab these files out.
 
+N=1,M=u,texttobr2(N,"file.txt",u,M,false,false,false,false,false,false,0,[auto,on]).
+
+N=1,M=u,t2ab(N,"file.txt",u,M,on).
+
 (Text to Breasonings - https://github.com/luciangreen/Text-to-Breasonings
 t2ab - https://github.com/luciangreen/t2ab)
