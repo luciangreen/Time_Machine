@@ -17,4 +17,5 @@ Remove "1. \n" and replace "\n\n" with "\n" until none left from these files.
 
 Breason and t2ab these files out.
 
-
+(Text to Breasonings - https://github.com/luciangreen/Text-to-Breasonings
+t2ab - https://github.com/luciangreen/t2ab)
