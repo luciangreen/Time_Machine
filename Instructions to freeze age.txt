@@ -14,6 +14,7 @@ swipl --stack-limit=80G
 
 ['bag_args2.pl'].
 #96000 - 4*50 As * (2 medicine+3 time travel+1 meditation)
+
 bag_args(96000).
 halt.
 
@@ -54,6 +55,7 @@ texttobr2(u,u,"square.",u).
 # Breason and t2ab these files out by dragging their contents into Text-to-Breasonings/file.txt in BBEdit (Mac).
 
 N=1,M=u,texttobr2(N,"file.txt",u,M,false,false,false,false,false,false,0,[auto,on]).
+N=1,M=u,texttobr(N,"file.txt",u,M).
 
 halt.
 
@@ -83,6 +85,7 @@ texttobr2(u,u,"square.",u).
 # Breason and t2ab these files out by dragging their contents into Text-to-Breasonings/file.txt in BBEdit (Mac).
 
 N=1,M=u,texttobr2(N,"file.txt",u,M,false,false,false,false,false,false,0,[auto,off]).
+N=1,M=u,texttobr(N,"file.txt",u,M).
 
 halt.
 
