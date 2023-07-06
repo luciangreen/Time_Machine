@@ -55,10 +55,14 @@ texttobr2(u,u,"square.",u).
 
 N=1,M=u,texttobr2(N,"file.txt",u,M,false,false,false,false,false,false,0,[auto,on]).
 
+halt.
+
 cd ../t2ab/
 
+swipl --stack-limit=80G
+
 ['t2ab.pl'].
-N=1,M=u,t2ab(N,"file.txt",u,M,on).
+N=1,M=u,t2ab(N,u,u,M,on).
 
 # STOP
 
@@ -80,13 +84,17 @@ texttobr2(u,u,"square.",u).
 
 N=1,M=u,texttobr2(N,"file.txt",u,M,false,false,false,false,false,false,0,[auto,off]).
 
+halt.
+
 
 # STOP to br
 
 cd ../t2ab/
 
+swipl --stack-limit=80G
+
 ['t2ab.pl'].
-N=1,M=u,t2ab(N,"file.txt",u,M,off).
+N=1,M=u,t2ab(N,u,u,M,off).
 
 # STOP to br
 
