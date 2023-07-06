@@ -1,45 +1,98 @@
-Instructions to freeze age
+# Instructions to freeze age
 
-Requires luciangreen/Philosophy repository
-https://github.com/luciangreen/Philosophy/
+# Requires luciangreen/Philosophy repository
+# https://github.com/luciangreen/Philosophy/
 
-The robots are simple minded. The BAG algorithm produces sentences and mock algorithms, which pass the professional requirement of 4*50 sentence As (A=80 sentences) for two destinations per day of 3 time teleportations and 2 medicines for anti-ageing.
+# The robots are simple minded. The BAG algorithm produces sentences and mock algorithms, which pass the professional requirement of 4*50 sentence As (A=80 sentences) for two destinations per day of 3 time teleportations and 2 medicines for anti-ageing.
 
-Replace fourth strings in Lucian-Academy/Books1/algs/lgalgs_a.txt and Lucian-Academy/Books1/args/lgtext_a.txt with the Philosophy algorithms and Lucian Academy books, respectively, deleting double quotes and backslashes.
+# Replace fourth strings in Lucian-Academy/Books1/algs/lgalgs_a.txt and Lucian-Academy/Books1/args/lgtext_a.txt with the Philosophy algorithms and Lucian Academy books, respectively, deleting double quotes and backslashes.
 
+cd Dropbox/GitHub/private2/Philosophy/
 
-In Philosophy:
-
-Run swipl with flags:
+# Run swipl with flags:
 swipl --stack-limit=80G
 
 ['bag_args2.pl'].
-bag_args(80000).
+#96000 - 4*50 As * (2 medicine+3 time travel+1 meditation)
+bag_args(96000).
 halt.
+
+# STOP - run at same time:
+
+cd Dropbox/GitHub/private2/Philosophy/
+
+# Run swipl with flags:
+swipl --stack-limit=80G
 
 ['bag_algs.pl'].
-bag_algs(80000).
+bag_algs(96000).
 halt.
 
+# Move files into file.txt
 
-In Text-to-Breasonings:
+swipl --stack-limit=80G
+['cat_files.pl'].
+cat_files.
+halt.
 
-Breason out a red square as the seen-as version of the following breasonings.
+rm -f Books/*/*
+mkdir Books/
 
+
+# 1. Auto-enter in T2B and T2AB
+
+cd ../Text-to-Breasonings/
+
+# Run swipl with flags:
+swipl --stack-limit=80G
+
+# Breason out a red square as the seen-as version of the following breasonings.
+
+['text_to_breasonings.pl'].
 texttobr2(u,u,"square.",u).
 
-Remove "1. \n" and replace "\n\n" with "\n" until none left from these files.
-
-Breason and t2ab these files out by dragging their contents into Text-to-Breasonings/file.txt in BBEdit (Mac).
+# Breason and t2ab these files out by dragging their contents into Text-to-Breasonings/file.txt in BBEdit (Mac).
 
 N=1,M=u,texttobr2(N,"file.txt",u,M,false,false,false,false,false,false,0,[auto,on]).
 
+cd ../t2ab/
 
-In t2ab:
-
+['t2ab.pl'].
 N=1,M=u,t2ab(N,"file.txt",u,M,on).
 
-(Text to Breasonings - https://github.com/luciangreen/Text-to-Breasonings
-t2ab - https://github.com/luciangreen/t2ab)
+# STOP
 
-* Remember to do this each day before time travelling, and indicate anti-ageing medicine at each time travelled to.
+
+
+# OR 2. Manually-enter in T2B and T2AB
+
+cd ../Text-to-Breasonings/
+
+# Run swipl with flags:
+swipl --stack-limit=80G
+
+# Breason out a red square as the seen-as version of the following breasonings.
+
+['text_to_breasonings.pl'].
+texttobr2(u,u,"square.",u).
+
+# Breason and t2ab these files out by dragging their contents into Text-to-Breasonings/file.txt in BBEdit (Mac).
+
+N=1,M=u,texttobr2(N,"file.txt",u,M,false,false,false,false,false,false,0,[auto,off]).
+
+
+# STOP to br
+
+cd ../t2ab/
+
+['t2ab.pl'].
+N=1,M=u,t2ab(N,"file.txt",u,M,off).
+
+# STOP to br
+
+
+
+# (Text to Breasonings - https://github.com/luciangreen/Text-to-Breasonings
+#t2ab - https://github.com/luciangreen/t2ab)
+
+# * Remember to do this each day before time travelling, and indicate anti-ageing medicine at each time travelled to.
