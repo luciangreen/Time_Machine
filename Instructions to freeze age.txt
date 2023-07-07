@@ -15,7 +15,7 @@ swipl --stack-limit=80G
 ['bag_args2.pl'].
 #96000 = 4*50 As * (2 medicine+3 time travel+1 meditation)+random(0-5)*thoughts
 
-tim(bag_args(16000)).
+time(bag_args(16000)).
 halt.
 
 # STOP - run at same time:
