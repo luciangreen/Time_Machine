@@ -13,9 +13,9 @@ cd Dropbox/GitHub/private2/Philosophy/
 swipl --stack-limit=80G
 
 ['bag_args2.pl'].
-#96000 - 4*50 As * (2 medicine+3 time travel+1 meditation)
+#96000 = 4*50 As * (2 medicine+3 time travel+1 meditation)+random(0-5)*thoughts
 
-bag_args(96000).
+tim(bag_args(16000)).
 halt.
 
 # STOP - run at same time:
@@ -26,84 +26,6 @@ cd Dropbox/GitHub/private2/Philosophy/
 swipl --stack-limit=80G
 
 ['bag_algs.pl'].
-bag_algs(96000).
+time(bag_algs(16000)).
 halt.
 
-# Move files into file.txt
-
-swipl --stack-limit=80G
-['cat_files.pl'].
-cat_files.
-halt.
-
-rm -f Books/*/*
-mkdir Books/
-
-
-# 1. Auto-enter in T2B and T2AB
-
-cd ../Text-to-Breasonings/
-
-# Run swipl with flags:
-swipl --stack-limit=80G
-
-# Breason out a red square as the seen-as version of the following breasonings.
-
-['text_to_breasonings.pl'].
-texttobr2(u,u,"square.",u).
-
-# Breason and t2ab these files out by dragging their contents into Text-to-Breasonings/file.txt in BBEdit (Mac).
-
-N=1,M=u,texttobr2(N,"file.txt",u,M,false,false,false,false,false,false,0,[auto,on]).
-N=1,M=u,texttobr(N,"file.txt",u,M).
-
-halt.
-
-cd ../t2ab/
-
-swipl --stack-limit=80G
-
-['t2ab.pl'].
-N=1,M=u,t2ab(N,u,u,M,on).
-
-# STOP
-
-
-
-# OR 2. Manually-enter in T2B and T2AB
-
-cd ../Text-to-Breasonings/
-
-# Run swipl with flags:
-swipl --stack-limit=80G
-
-# Breason out a red square as the seen-as version of the following breasonings.
-
-['text_to_breasonings.pl'].
-texttobr2(u,u,"square.",u).
-
-# Breason and t2ab these files out by dragging their contents into Text-to-Breasonings/file.txt in BBEdit (Mac).
-
-N=1,M=u,texttobr2(N,"file.txt",u,M,false,false,false,false,false,false,0,[auto,off]).
-N=1,M=u,texttobr(N,"file.txt",u,M).
-
-halt.
-
-
-# STOP to br
-
-cd ../t2ab/
-
-swipl --stack-limit=80G
-
-['t2ab.pl'].
-N=1,M=u,t2ab(N,u,u,M,off).
-
-# STOP to br
-
-
-
-# (Text to Breasonings - https://github.com/luciangreen/Text-to-Breasonings
-#t2ab - https://github.com/luciangreen/t2ab)
-
-# * Remember to do this each day before time travelling, and indicate anti-ageing medicine at each time travelled to.
