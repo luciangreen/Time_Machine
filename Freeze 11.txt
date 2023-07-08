@@ -1,0 +1,164 @@
+# 11 (for the 4/5 remaining high quality thoughts)
+
+# Instructions to freeze age
+
+# Requires luciangreen/Philosophy repository
+# https://github.com/luciangreen/Philosophy/
+
+# The robots are simple minded. The BAG algorithm produces sentences and mock algorithms, which pass the professional requirement of 4*50 sentence As (A=80 sentences) for two destinations per day of 3 time teleportations and 2 medicines for anti-ageing.
+
+# Replace fourth strings in Lucian-Academy/Books1/algs/lgalgs_a.txt and Lucian-Academy/Books1/args/lgtext_a.txt with the Philosophy algorithms and Lucian Academy books, respectively, deleting double quotes and backslashes.
+
+
+### Watch as it runs after pasting text to start off where it possibly crashes.
+
+cd Dropbox/GitHub/private2/Text-to-Breasonings/
+
+swipl
+['text_to_breasonings.pl'].
+texttobr2(u,u,"square",u).
+halt.
+
+cd ../Philosophy/
+
+#96000 = 4*50 As * (2 medicine+2 time travel+1 meditation)+random(0-5)*thoughts
+
+swipl --stack-limit=80G
+['cat_arg_files.pl'].
+cat_arg_files(6000).
+halt.
+
+
+# Run swipl with flags:
+swipl --stack-limit=80G
+['bag_args2.pl'].
+time(bag_args(6000)).
+halt.
+
+swipl --stack-limit=80G
+['bag_args2.pl'].
+time(bag_args(6000)).
+halt.
+
+swipl --stack-limit=80G
+['bag_args2.pl'].
+time(bag_args(6000)).
+halt.
+
+swipl --stack-limit=80G
+['bag_args2.pl'].
+time(bag_args(6000)).
+halt.
+
+swipl --stack-limit=80G
+['bag_args2.pl'].
+time(bag_args(6000)).
+halt.
+
+swipl --stack-limit=80G
+['bag_args2.pl'].
+time(bag_args(6000)).
+halt.
+
+swipl --stack-limit=80G
+['bag_args2.pl'].
+time(bag_args(6000)).
+halt.
+
+swipl --stack-limit=80G
+['bag_args2.pl'].
+time(bag_args(6000)).
+halt.
+
+swipl --stack-limit=80G
+['bag_args2.pl'].
+time(bag_args(6000)).
+halt.
+
+swipl --stack-limit=80G
+['bag_args2.pl'].
+time(bag_args(6000)).
+halt.
+
+cd Dropbox/GitHub/private2/Philosophy/
+
+swipl --stack-limit=80G
+['cat_alg_files.pl'].
+cat_alg_files(6000).
+halt.
+
+# Run swipl with flags:
+
+swipl --stack-limit=80G
+['bag_algs.pl'].
+time(bag_algs(6000)).
+halt.
+
+swipl --stack-limit=80G
+['bag_algs.pl'].
+time(bag_algs(6000)).
+halt.
+
+swipl --stack-limit=80G
+['bag_algs.pl'].
+time(bag_algs(6000)).
+halt.
+
+swipl --stack-limit=80G
+['bag_algs.pl'].
+time(bag_algs(6000)).
+halt.
+
+swipl --stack-limit=80G
+['bag_algs.pl'].
+time(bag_algs(6000)).
+halt.
+
+swipl --stack-limit=80G
+['bag_algs.pl'].
+time(bag_algs(6000)).
+halt.
+
+swipl --stack-limit=80G
+['bag_algs.pl'].
+time(bag_algs(6000)).
+halt.
+
+swipl --stack-limit=80G
+['bag_algs.pl'].
+time(bag_algs(6000)).
+halt.
+
+swipl --stack-limit=80G
+['bag_algs.pl'].
+time(bag_algs(6000)).
+halt.
+
+swipl --stack-limit=80G
+['bag_algs.pl'].
+time(bag_algs(6000)).
+halt.
+
+cd ../Text-to-Breasonings/
+
+swipl
+['text_to_breasonings.pl'].
+
+A is 1 % teleport 1
+   + 1 % anti-ageing medicine 1
+   + 1 % teleport 2
+   + 1 % anti-ageing medicine 2
+   + 1 % meditation
+   + 1,% a thought
+
+texttobr2_1(A).
+
+halt.
+
+cd ../Philosophy/
+
+swipl
+
+['bell.pl'].
+bell("High Quality Thoughts Complete").
+halt.
