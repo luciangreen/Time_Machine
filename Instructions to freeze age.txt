@@ -215,7 +215,7 @@ texttobr2_1(A).
 
 halt.
 
-cd ../Text-to-Breasonings/
+cd ../Philosophy/
 
 swipl
 
