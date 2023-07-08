@@ -108,8 +108,6 @@ swipl --stack-limit=80G
 time(bag_args(6000)).
 halt.
 
-# STOP - run at same time:
-
 cd Dropbox/GitHub/private2/Philosophy/
 
 swipl --stack-limit=80G
