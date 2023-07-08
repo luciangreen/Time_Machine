@@ -7,6 +7,9 @@
 
 # Replace fourth strings in Lucian-Academy/Books1/algs/lgalgs_a.txt and Lucian-Academy/Books1/args/lgtext_a.txt with the Philosophy algorithms and Lucian Academy books, respectively, deleting double quotes and backslashes.
 
+
+### Watch as it runs after pasting text to start off where it possibly crashes.
+
 cd Dropbox/GitHub/private2/Text-to-Breasonings/
 swipl
 ['text_to_breasonings.pl'].
@@ -193,4 +196,20 @@ halt.
 swipl --stack-limit=80G
 ['bag_algs.pl'].
 time(bag_algs(6000)).
+halt.
+
+cd ../Text-to-Breasonings/
+
+swipl
+['text_to_breasonings.pl'].
+
+A is 1 % teleport 1
+   + 1 % anti-ageing medicine 1
+   + 1 % teleport 2
+   + 1 % anti-ageing medicine 2
+   + 1 % meditation
+   + 1,% a thought
+
+texttobr2_1(A).
+
 halt.
