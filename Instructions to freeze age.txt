@@ -220,5 +220,5 @@ cd ../Text-to-Breasonings/
 swipl
 
 ['bell.pl'].
-bell("Freeze Age Complete").
+bell("Freezing Age Complete").
 halt.
