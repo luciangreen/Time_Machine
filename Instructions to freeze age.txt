@@ -11,6 +11,7 @@
 ### Watch as it runs after pasting text to start off where it possibly crashes.
 
 cd Dropbox/GitHub/private2/Text-to-Breasonings/
+
 swipl
 ['text_to_breasonings.pl'].
 texttobr2(u,u,"square",u).
@@ -212,4 +213,12 @@ A is 1 % teleport 1
 
 texttobr2_1(A).
 
+halt.
+
+cd ../Text-to-Breasonings/
+
+swipl
+
+['bell.pl'].
+bell("Freeze Age Complete").
 halt.
