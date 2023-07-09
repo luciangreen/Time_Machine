@@ -30,85 +30,85 @@ halt.
 # Run swipl with flags:
 swipl --stack-limit=80G
 ['bag_args2.pl'].
-time(bag_args(6000)).
+bag_args(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_args2.pl'].
-time(bag_args(6000)).
+bag_args(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_args2.pl'].
-time(bag_args(6000)).
+bag_args(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_args2.pl'].
-time(bag_args(6000)).
+bag_args(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_args2.pl'].
-time(bag_args(6000)).
+bag_args(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_args2.pl'].
-time(bag_args(6000)).
+bag_args(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_args2.pl'].
-time(bag_args(6000)).
+bag_args(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_args2.pl'].
-time(bag_args(6000)).
+bag_args(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_args2.pl'].
-time(bag_args(6000)).
+bag_args(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_args2.pl'].
-time(bag_args(6000)).
+bag_args(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_args2.pl'].
-time(bag_args(6000)).
+bag_args(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_args2.pl'].
-time(bag_args(6000)).
+bag_args(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_args2.pl'].
-time(bag_args(6000)).
+bag_args(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_args2.pl'].
-time(bag_args(6000)).
+bag_args(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_args2.pl'].
-time(bag_args(6000)).
+bag_args(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_args2.pl'].
-time(bag_args(6000)).
+bag_args(6000).
 halt.
 
-cd Dropbox/GitHub/private2/Philosophy/
+# cd Dropbox/GitHub/private2/Philosophy/
 
 swipl --stack-limit=80G
 ['cat_alg_files.pl'].
@@ -119,82 +119,82 @@ halt.
 
 swipl --stack-limit=80G
 ['bag_algs.pl'].
-time(bag_algs(6000)).
+bag_algs(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_algs.pl'].
-time(bag_algs(6000)).
+bag_algs(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_algs.pl'].
-time(bag_algs(6000)).
+bag_algs(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_algs.pl'].
-time(bag_algs(6000)).
+bag_algs(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_algs.pl'].
-time(bag_algs(6000)).
+bag_algs(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_algs.pl'].
-time(bag_algs(6000)).
+bag_algs(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_algs.pl'].
-time(bag_algs(6000)).
+bag_algs(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_algs.pl'].
-time(bag_algs(6000)).
+bag_algs(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_algs.pl'].
-time(bag_algs(6000)).
+bag_algs(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_algs.pl'].
-time(bag_algs(6000)).
+bag_algs(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_algs.pl'].
-time(bag_algs(6000)).
+bag_algs(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_algs.pl'].
-time(bag_algs(6000)).
+bag_algs(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_algs.pl'].
-time(bag_algs(6000)).
+bag_algs(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_algs.pl'].
-time(bag_algs(6000)).
+bag_algs(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_algs.pl'].
-time(bag_algs(6000)).
+bag_algs(6000).
 halt.
 
 swipl --stack-limit=80G
 ['bag_algs.pl'].
-time(bag_algs(6000)).
+bag_algs(6000).
 halt.
 
 cd ../Text-to-Breasonings/
