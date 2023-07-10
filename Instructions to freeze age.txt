@@ -111,7 +111,6 @@ bag_args(6000).
 halt.
 
 swipl --stack-limit=80G
-%sleep(300). % give cpu a break to prepare
 ['cat_alg_files.pl'].
 cat_alg_files(6000).
 halt.
