@@ -65,10 +65,6 @@ swipl --stack-limit=80G
 bag_args(6000).
 halt.
 
-swipl --stack-limit=80G
-['bag_args2.pl'].
-bag_args(6000).
-halt.
 
 swipl --stack-limit=80G
 ['bag_args2.pl'].
@@ -109,10 +105,77 @@ swipl --stack-limit=80G
 ['bag_args2.pl'].
 bag_args(6000).
 halt.
+
+swipl --stack-limit=80G
+['bag_args2.pl'].
+bag_args(6000).
+halt.
+
+swipl --stack-limit=80G
+['bag_args2.pl'].
+bag_args(6000).
+halt.
+
+swipl --stack-limit=80G
+['bag_args2.pl'].
+bag_args(6000).
+halt.
+
+swipl --stack-limit=80G
+['bag_args2.pl'].
+bag_args(6000).
+halt.
+
+swipl --stack-limit=80G
+['bag_args2.pl'].
+bag_args(6000).
+halt.
+
+swipl --stack-limit=80G
+['bag_args2.pl'].
+bag_args(6000).
+halt.
+
+swipl --stack-limit=80G
+['bag_args2.pl'].
+bag_args(6000).
+halt.
+
 
 swipl --stack-limit=80G
 ['cat_alg_files.pl'].
 cat_alg_files(6000).
+halt.
+
+
+swipl --stack-limit=80G
+['bag_algs.pl'].
+bag_algs(6000).
+halt.
+
+swipl --stack-limit=80G
+['bag_algs.pl'].
+bag_algs(6000).
+halt.
+
+swipl --stack-limit=80G
+['bag_algs.pl'].
+bag_algs(6000).
+halt.
+
+swipl --stack-limit=80G
+['bag_algs.pl'].
+bag_algs(6000).
+halt.
+
+swipl --stack-limit=80G
+['bag_algs.pl'].
+bag_algs(6000).
+halt.
+
+swipl --stack-limit=80G
+['bag_algs.pl'].
+bag_algs(6000).
 halt.
 
 swipl --stack-limit=80G
@@ -204,8 +267,8 @@ A is 1 % teleport 1
    + 1 % anti-ageing medicine 1
    + 1 % teleport 2
    + 1 % anti-ageing medicine 2
-   + 1 % meditation
-   + 1,% a thought
+   + 2 % meditation
+   + 2,% a thought
 
 texttobr2_1(A).
 
