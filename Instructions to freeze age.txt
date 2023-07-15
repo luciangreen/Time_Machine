@@ -10,48 +10,10 @@
 ### Perhaps delete sparse (data-like) sections of Lucian-Academy/Books1/algs/lgalgs_a.txt and Lucian-Academy/Books1/args/lgtext_a.txt
 
 
-cd Dropbox/GitHub/private2/Text-to-Breasonings/
-
-swipl
-%sleep(300). % give cpu a break to prepare
-['text_to_breasonings.pl'].
-texttobr2(25,u,"square",u).
-halt.
 
 cd ../Philosophy/
 swipl
 ['day2.pl'].
 main.
-
-# to prepare for 5 (people)*16000*8 (breasonings)*5(people's people).
-# Use ['print_totals.pl']. and print_totals. to give a running total.
-
-swipl
-['flush_caches.pl'].
-flush_caches.
-halt.
-
-cd ../Text-to-Breasonings/
-
-swipl
-['text_to_breasonings.pl'].
-
-A is (25-1)*(1 % teleport 1
-   + 1 % anti-ageing medicine 1
-   + 1 % teleport 2
-   + 1 % anti-ageing medicine 2
-   + 2 % meditation
-   + 2),% a thought
-
-texttobr2_1(A).
-
-halt.
-
-cd ../Philosophy/
-
-swipl
-['bell.pl'].
-bell("Freezing Ages Complete").
-halt.
 
 
