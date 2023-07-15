@@ -9,253 +9,26 @@
 
 ### Perhaps delete sparse (data-like) sections of Lucian-Academy/Books1/algs/lgalgs_a.txt and Lucian-Academy/Books1/args/lgtext_a.txt
 
-### Watch as it runs after pasting text to start off where it possibly crashes.
 
 cd Dropbox/GitHub/private2/Text-to-Breasonings/
 
 swipl
 %sleep(300). % give cpu a break to prepare
 ['text_to_breasonings.pl'].
-texttobr2(u,u,"square",u).
+texttobr2(25,u,"square",u).
 halt.
 
 cd ../Philosophy/
+swipl
+['day2.pl'].
+main.
 
-#96000 = 4*50 As * (2 medicine+2 time travel+1 meditation)+random(0-5)*thoughts
+# to prepare for 5 (people)*16000*8 (breasonings)*5(people's people).
+# Use ['print_totals.pl']. and print_totals. to give a running total.
 
-swipl --stack-limit=80G
-['cat_arg_files.pl'].
-cat_arg_files(6000).
-halt.
-
-
-# Run swipl with flags:
-swipl --stack-limit=80G
-['bag_args2.pl'].
-bag_args(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_args2.pl'].
-bag_args(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_args2.pl'].
-bag_args(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_args2.pl'].
-bag_args(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_args2.pl'].
-bag_args(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_args2.pl'].
-bag_args(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_args2.pl'].
-bag_args(6000).
-halt.
-
-
-swipl --stack-limit=80G
-['bag_args2.pl'].
-bag_args(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_args2.pl'].
-bag_args(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_args2.pl'].
-bag_args(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_args2.pl'].
-bag_args(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_args2.pl'].
-bag_args(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_args2.pl'].
-bag_args(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_args2.pl'].
-bag_args(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_args2.pl'].
-bag_args(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_args2.pl'].
-bag_args(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_args2.pl'].
-bag_args(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_args2.pl'].
-bag_args(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_args2.pl'].
-bag_args(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_args2.pl'].
-bag_args(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_args2.pl'].
-bag_args(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_args2.pl'].
-bag_args(6000).
-halt.
-
-
-swipl --stack-limit=80G
-['cat_alg_files.pl'].
-cat_alg_files(6000).
-halt.
-
-
-swipl --stack-limit=80G
-['bag_algs.pl'].
-bag_algs(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_algs.pl'].
-bag_algs(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_algs.pl'].
-bag_algs(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_algs.pl'].
-bag_algs(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_algs.pl'].
-bag_algs(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_algs.pl'].
-bag_algs(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_algs.pl'].
-bag_algs(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_algs.pl'].
-bag_algs(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_algs.pl'].
-bag_algs(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_algs.pl'].
-bag_algs(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_algs.pl'].
-bag_algs(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_algs.pl'].
-bag_algs(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_algs.pl'].
-bag_algs(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_algs.pl'].
-bag_algs(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_algs.pl'].
-bag_algs(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_algs.pl'].
-bag_algs(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_algs.pl'].
-bag_algs(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_algs.pl'].
-bag_algs(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_algs.pl'].
-bag_algs(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_algs.pl'].
-bag_algs(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_algs.pl'].
-bag_algs(6000).
-halt.
-
-swipl --stack-limit=80G
-['bag_algs.pl'].
-bag_algs(6000).
+swipl
+['flush_caches.pl'].
+flush_caches.
 halt.
 
 cd ../Text-to-Breasonings/
@@ -263,12 +36,12 @@ cd ../Text-to-Breasonings/
 swipl
 ['text_to_breasonings.pl'].
 
-A is 1 % teleport 1
+A is (25-1)*(1 % teleport 1
    + 1 % anti-ageing medicine 1
    + 1 % teleport 2
    + 1 % anti-ageing medicine 2
    + 2 % meditation
-   + 2,% a thought
+   + 2),% a thought
 
 texttobr2_1(A).
 
@@ -278,5 +51,7 @@ cd ../Philosophy/
 
 swipl
 ['bell.pl'].
-bell("Freezing Age Complete").
+bell("Freezing Ages Complete").
 halt.
+
+
