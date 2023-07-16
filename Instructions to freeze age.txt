@@ -10,10 +10,29 @@
 ### Perhaps delete sparse (data-like) sections of Lucian-Academy/Books1/algs/lgalgs_a.txt and Lucian-Academy/Books1/args/lgtext_a.txt
 
 
+cd Dropbox/GitHub/private2/Philosophy
 
-cd ../Philosophy/
+swipl --stack-limit=80G
+['cat_arg_files.pl'].
+cat_arg_files(6000).
+halt.
+
+swipl --stack-limit=80G
+['cat_alg_files.pl'].
+cat_alg_files(6000).
+halt.
+
 swipl
 ['day2.pl'].
 main.
+
+# STOP
+
+# Print running totals
+
+swipl
+['print_totals.pl'].
+print_totals.
+
 
 
