@@ -53,7 +53,7 @@ halt
 - The window (ability) to time travel may disappear soon after learning the time travel skill, so it is advisable to travel to the time in <a href="Immortality.md">Instructions on becoming immortal</a> to gain a permanent time travel skill.
 - The courses above required for time travel are included in the algorithm below (so they may not be required apart from the High Distinction texts in the algorithm).
 
-- <a href="https://github.com/luciangreen/Time_Machine/blob/main/Instructions%20to%20freeze%20age.txt">Instructions to freeze one's age in one's home time</a>
+- <a href="https://github.com/luciangreen/Time_Machine/blob/main/Instructions%20to%20freeze%20age.txt">Instructions to freeze one's age in one's home time</a> - <a href="https://m.youtube.com/watch?v=RbGh5wB1rfo&pp=ygUZTHVjaWFuIGFjYWRlbXkgZnJlZXplIGFnZQ%3D%3D">Video</a>
 
 # Running
 
