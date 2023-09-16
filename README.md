@@ -55,7 +55,7 @@ halt
 
 - <a href="https://github.com/luciangreen/Time_Machine/blob/main/Instructions%20to%20freeze%20age.txt">Instructions to freeze one's age in one's home time</a> - <a href="https://m.youtube.com/watch?v=RbGh5wB1rfo&pp=ygUZTHVjaWFuIGFjYWRlbXkgZnJlZXplIGFnZQ%3D%3D">Video</a>
 
-- <a href="https://github.com/luciangreen/Time_Machine/blob/main/Protection">Additional Protection from Dying</a>
+- <a href="https://github.com/luciangreen/Time_Machine/blob/main/Protection.md">Additional Protection from Dying</a>
 
 # Running
 
