@@ -17,9 +17,18 @@ swipl --stack-limit=80G
 cat_alg_files(6000).
 halt.
 
-swipl
-['day2.pl'].
-main.
+cd ../Text-to-Breasonings
+swipl --stack-limit=80G
+['text_to_breasonings3.pl'].
+texttobr2(u,u,"../Lucian-Academy/Books1/lgalgs_a.txt",u,[auto,off]).
+halt.
+
+swipl --stack-limit=80G
+['text_to_breasonings3.pl'].
+texttobr2(u,u,"../Lucian-Academy/Books1/lgtext_a.txt",u,[auto,off]).
+halt.
+
+# In future, a breasoning stamp for meditation, time travel and medicine.
 
 # STOP
 
