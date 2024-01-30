@@ -3,7 +3,7 @@
 # Requires luciangreen/Philosophy repository
 # https://github.com/luciangreen/Philosophy/
 
-# The robots are simple minded. The BAG algorithm produces sentences and mock algorithms, which pass the professional requirement of 4*50 sentence As (A=80 sentences) for two destinations per day of 2 meditations, 2 time teleportations and 2 medicines for anti-ageing.
+# The robots are simple minded. The Text to Breasonings algorithm breasons out sentences and algorithms, which pass the professional requirement of 4*50 sentence As (A=80 sentences) for two destinations per day of 2 meditations, 2 time teleportations and 2 medicines for anti-ageing.
 
 # One-off
 cd Dropbox/GitHub/Text-to-Breasonings
@@ -37,14 +37,3 @@ mv a a2
 # Every day (read a1.pl, a2.pl, run each of the following for Total=3*16000*10/L each)
 ./a1
 ./a2
-
-# STOP
-
-# Print running totals
-
-swipl
-['print_totals.pl'].
-print_totals.
-
-
-
