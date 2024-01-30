@@ -26,11 +26,17 @@ cd ../Text-to-Breasonings
 
 cp ../Lucian-Academy/Books1/algs/lgalgs_a.txt file.txt
 ./t2b4
+mv a.pl a1.pl
+mv a a1
 
 cp ../Lucian-Academy/Books1/args/lgtext_a.txt file.txt
 ./t2b4
+mv a.pl a2.pl
+mv a a2
 
-./a
+# Every day (read a1.pl, a2.pl, run each of the following for Total=3*16000/L each)
+./a1
+./a2
 
 # STOP
 
