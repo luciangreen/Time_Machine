@@ -5,6 +5,11 @@
 
 # The robots are simple minded. The BAG algorithm produces sentences and mock algorithms, which pass the professional requirement of 4*50 sentence As (A=80 sentences) for two destinations per day of 2 meditations, 2 time teleportations and 2 medicines for anti-ageing.
 
+# One-off
+cd Dropbox/GitHub/Text-to-Breasonings
+swipl --goal=main --stand_alone=true -o t2b4 -c text_to_breasonings4.pl 
+
+# Each week
 cd Dropbox/GitHub/Philosophy
 
 swipl --stack-limit=80G
@@ -18,17 +23,14 @@ cat_alg_files(6000).
 halt.
 
 cd ../Text-to-Breasonings
-swipl --stack-limit=80G
-['text_to_breasonings3.pl'].
-texttobr2(u,u,"../Lucian-Academy/Books1/lgalgs_a.txt",u,[auto,on]).
-halt.
 
-swipl --stack-limit=80G
-['text_to_breasonings3.pl'].
-texttobr2(u,u,"../Lucian-Academy/Books1/lgtext_a.txt",u,[auto,on]).
-halt.
+cp ../Lucian-Academy/Books1/algs/lgalgs_a.txt file.txt
+./t2b4
 
-# In future, a breasoning stamp for meditation, time travel and medicine.
+cp ../Lucian-Academy/Books1/args/lgtext_a.txt file.txt
+./t2b4
+
+./a
 
 # STOP
 
