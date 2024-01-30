@@ -34,6 +34,7 @@ cp ../Lucian-Academy/Books1/args/lgtext_a.txt file.txt
 mv a.pl a2.pl
 mv a a2
 
-# Every day (read a1.pl, a2.pl, run each of the following for Total=3*16000*10/L each)
+# Every day (read a1.pl, a2.pl, run each of the following for Total=3*2*16000*10/L each)
+cd Dropbox/GitHub/Text-to-Breasonings
 ./a1
 ./a2
