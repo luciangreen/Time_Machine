@@ -3,7 +3,7 @@
 # Requires luciangreen/Philosophy repository
 # https://github.com/luciangreen/Philosophy/
 
-# The robots are simple minded. The Text to Breasonings algorithm breasons out sentences and algorithms, which pass the professional requirement of 4*50 sentence As (A=80 sentences) for two destinations per day of 2 meditations, 2 time teleportations and 2 medicines for anti-ageing.
+# The robots are simple minded. The Text to Breasonings algorithm breasons out sentences and algorithms, which pass the professional requirement of 4*50 sentence As (A=80 sentences) for two destinations per day of meditation, time teleportation and medicine for anti-ageing.
 
 # One-off
 cd Dropbox/GitHub/Text-to-Breasonings
@@ -34,7 +34,7 @@ cp ../Lucian-Academy/Books1/args/lgtext_a.txt file.txt
 mv a.pl a2.pl
 mv a a2
 
-# Every day (read a1.pl, a2.pl, run each of the following for Total=3*2*16000*10/L each)
+# Every day (read a1.pl, a2.pl, run each of the following for Total=3*3*16000*10/L each)
 cd Dropbox/GitHub/Text-to-Breasonings
 ./a1
 ./a2
