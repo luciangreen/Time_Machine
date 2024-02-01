@@ -5,6 +5,8 @@
 
 # The robots are simple minded. The BAG algorithm produces sentences and mock algorithms, which pass the professional requirement of 4*50 sentence As (A=80 sentences) for two destinations per day of 2 meditations, 2 time teleportations and 2 medicines for anti-ageing.
 
+# Optionally run on a Virtual Private Server (VPS) (See https://github.com/luciangreen/Text-to-Breasonings/blob/master/Setting_up_a_VPS_with_TextToBr.txt).
+
 cd Dropbox/GitHub/Philosophy
 
 swipl --stack-limit=80G
