@@ -36,8 +36,8 @@ cp ../Lucian-Academy/Books1/args/lgtext_a.txt file.txt
 ./t2b4
 mv a.pl a2.pl
 mv a a2
-mv b.pl b1.pl
-mv b b1
+mv b.pl b2.pl
+mv b b2
 mv c c2
 
 # Every day
