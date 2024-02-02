@@ -26,18 +26,20 @@ cd ../Text-to-Breasonings
 
 cp ../Lucian-Academy/Books1/algs/lgalgs_a.txt file.txt
 ./t2b4
-mv a.pl a1.pl
+rm a.pl
 mv a a1
-mv b.pl b1.pl
+rm b.pl
 mv b b1
+rm c.pl
 mv c c1
 
 cp ../Lucian-Academy/Books1/args/lgtext_a.txt file.txt
 ./t2b4
-mv a.pl a2.pl
+rm a.pl
 mv a a2
-mv b.pl b2.pl
+rm b.pl
 mv b b2
+rm c.pl
 mv c c2
 
 # Every day
