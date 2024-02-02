@@ -51,10 +51,7 @@ texttobr2(4,u,"square",u).
 halt.
 
 # Either
-./c1
-./c2
-./b1
-./b2
+./bc12.sh
 
 # Or, for 15 people
 ./d.sh
