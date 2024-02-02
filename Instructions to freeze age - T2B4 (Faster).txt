@@ -28,11 +28,17 @@ cp ../Lucian-Academy/Books1/algs/lgalgs_a.txt file.txt
 ./t2b4
 mv a.pl a1.pl
 mv a a1
+mv b.pl b1.pl
+mv b b1
+mv c c1
 
 cp ../Lucian-Academy/Books1/args/lgtext_a.txt file.txt
 ./t2b4
 mv a.pl a2.pl
 mv a a2
+mv b.pl b1.pl
+mv b b1
+mv c c2
 
 # Every day
 cd Dropbox/GitHub/Text-to-Breasonings
@@ -44,6 +50,7 @@ texttobr2_1(1).
 texttobr2(4,u,"square",u).
 halt.
 
-./c
+./c1
+./c2
 ./b1
 ./b2
