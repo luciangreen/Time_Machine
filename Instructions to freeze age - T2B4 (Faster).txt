@@ -50,7 +50,11 @@ texttobr2_1(1).
 texttobr2(4,u,"square",u).
 halt.
 
+# Either
 ./c1
 ./c2
 ./b1
 ./b2
+
+# Or, for 15 people
+./d.sh
