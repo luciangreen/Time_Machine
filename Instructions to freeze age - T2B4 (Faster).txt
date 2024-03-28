@@ -42,7 +42,7 @@ mv b b2
 rm c.pl
 mv c c2
 
-# Every day
+# Every day, in each dimension
 cd Dropbox/GitHub/Text-to-Breasonings
 
 swipl

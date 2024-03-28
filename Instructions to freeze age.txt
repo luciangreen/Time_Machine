@@ -7,6 +7,8 @@
 
 # Optionally run on a Virtual Private Server (VPS) (See https://github.com/luciangreen/Text-to-Breasonings/blob/master/Setting_up_a_VPS_with_TextToBr.txt).
 
+# So, 64,000 argument and algorithm breasonings per destination (of meditation, time teleportation and medicine for anti-ageing, must have home and October 5689 and wait for the breasonings to finish to take effect in each destination). I prefer to run the 64,000 breasonings for a third time after returning to 5689, as this is a new leg of the journey.
+
 cd Dropbox/GitHub/Philosophy
 
 swipl --stack-limit=80G
