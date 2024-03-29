@@ -55,5 +55,5 @@ halt.
 # Either
 ./bc12.sh
 
-# Or, for 50 people
+# Or, for 15 people
 ./d.sh
