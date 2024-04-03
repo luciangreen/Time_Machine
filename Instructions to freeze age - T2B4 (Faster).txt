@@ -66,5 +66,5 @@ halt.
 ./d.sh
 
 # For all non-simulant age freezees on meditators list except children
-# Note: b00.sh has been superceded by Text-to-Breasonings/meditationnoreplace2.pl.
+# Note: b00.sh has been superseded by Text-to-Breasonings/meditationnoreplace2.pl.
 ./b00.sh
