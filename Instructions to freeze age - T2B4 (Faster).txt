@@ -33,7 +33,7 @@ mv b b1
 rm c.pl
 mv c c1
 rm b0.pl
-mv b0 b01
+rm b0
 
 cp ../Lucian-Academy/Books1/args/lgtext_a.txt file.txt
 ./t2b4
@@ -44,10 +44,7 @@ mv b b2
 rm c.pl
 mv c c2
 rm b0.pl
-mv b0 b02
-
-swipl --goal=main --stand_alone=true -o t2b4_b0 -c texttobrall2_reading4_b0.pl 
-./t2b4_b0
+rm b0
 
 # Every day, in each dimension
 cd Dropbox/GitHub/Text-to-Breasonings
@@ -64,7 +61,3 @@ halt.
 
 # Or, for 15 people
 ./d.sh
-
-# For all non-simulant age freezees on meditators list except children
-# Note: b00.sh has been superseded by Text-to-Breasonings/meditationnoreplace2.pl.
-./b00.sh
