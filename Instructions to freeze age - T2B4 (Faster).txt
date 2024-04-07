@@ -32,8 +32,6 @@ rm b.pl
 mv b b1
 rm c.pl
 mv c c1
-rm b0.pl
-rm b0
 
 cp ../Lucian-Academy/Books1/args/lgtext_a.txt file.txt
 ./t2b4
@@ -43,8 +41,6 @@ rm b.pl
 mv b b2
 rm c.pl
 mv c c2
-rm b0.pl
-rm b0
 
 # Every day, in each dimension
 cd Dropbox/GitHub/Text-to-Breasonings
