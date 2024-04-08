@@ -12,6 +12,24 @@
 
 * You may comment/uncomment lines of the script at `Daily-Regimen/big_medit.sh`.
 
+# Weekly Instructions
+
+* Update Philosophy, Lucian-Academy (at the minimum) each week:
+
+```
+cd GitHub
+rm -rf Philosophy Lucian-Academy
+git clone https://github.com/luciangreen/Philosophy.git
+git clone https://github.com/luciangreen/Lucian-Academy.git
+
+cd Daily-Regimen
+./d-prep.sh
+```
+
+# Each day:
+
+* Personal meditation
+
 * Run the daily script with:
 
 ```
