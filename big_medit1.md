@@ -8,10 +8,6 @@
 
 * Please record that you have invited them to the simulation in `Text-to-Breasonings/meditatorsanddoctors.pl`.
 
-* Replace the secret key in `chatgpt_qa.pl` according to ChatGPT.
-
-* You may comment/uncomment lines of the script at `Daily-Regimen/big_medit.sh`.
-
 # Weekly Instructions
 
 * Update Philosophy, Lucian-Academy (at the minimum) each week:
