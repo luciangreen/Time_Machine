@@ -3,7 +3,7 @@ Image of blue vertical lines disappearing into a vanishing point (Photo by <a hr
 
 # Time_Machine
 
-* You will need 1000 pedagogy breasonings for text to breasonings for enough breasonings per breasoning session, 80 meditation breasonings, 80 medicine breasonings for anti-ageing and 80 time travel breasonings and 80 mind reading breasonings, indicated in the present and the right set of dates in 5689 each day after joining the simulation for immortality without a computer with power supply, otherwise you can run the algorithm in this repository.
+* You will need 1000 pedagogy breasonings for text to breasonings for enough breasonings per breasoning session, 80 meditation breasonings, 80 medicine breasonings for anti-ageing and 80 time travel breasonings and 80 mind reading breasonings, indicated in the present and the correct set of dates in 5689 each day after joining the simulation for immortality without a computer with power supply, otherwise you can run the algorithm in this repository.
 * Welcome to Lucian's Time Machine, which offers a positive way of life, extending life for those who would like it, and bringing advanced technology to us so that all may enjoy immortality through meditation.
 * The way of life in the simulation is relaxing, there is no pressure to work and one can live a life on a pension creating art and studying and having fun.
 * Imagine the possibilities: articulating to the top of academia and industry, enjoying the perks of relaxation from activity and preventing the onset of age-related body-breakdown.  
