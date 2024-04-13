@@ -21,4 +21,4 @@ It is better for you to time travel but they don't have to.
 cd Daily-Regimen
 ./d.sh
 ```
-twice to switch off home ageing and switch it off being switched off.
+four times to switch off home and future ageing and switch them off being switched off.
