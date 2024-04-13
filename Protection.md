@@ -16,3 +16,9 @@ halt.
 ```
 It is better for you to time travel but they don't have to.
 * See <a href="big_medit1.md">big_medit1.md</a> for instructions on running a Prolog program to automatically time travel and increase the longevity of your meditators each day.
+* Run
+```
+cd Daily-Regimen
+./d.sh
+```
+twice to switch off home ageing and switch it off being switched off.
