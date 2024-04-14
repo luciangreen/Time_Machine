@@ -19,6 +19,7 @@ It is better for you to time travel but they don't have to.
 * Run
 ```
 cd Daily-Regimen
+./d-prep.sh  # if necessary
 ./d.sh
 ```
 four times to switch off home and future ageing and switch them off being switched off.
