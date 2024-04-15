@@ -3,12 +3,12 @@ Image of blue vertical lines disappearing into a vanishing point (Photo by <a hr
 
 # Time_Machine
 
-* You will need 1000 pedagogy breasonings for text to breasonings for enough breasonings per breasoning session, 80 meditation breasonings, 80 medicine breasonings for anti-ageing, 80 time travel breasonings and 80 mind reading breasonings, indicated in the present and the correct set of dates in 5689 each day after joining the simulation for immortality without a computer with power supply, otherwise you can run the algorithm in this repository.
-* Welcome to Lucian's Time Machine, which offers a positive way of life, extending life for those who would like it, and bringing advanced technology to us so that all may enjoy immortality through meditation.
-* The way of life in the simulation is relaxing, there is no pressure to work and one can live a life on a pension creating art and studying and having fun.
-* Imagine the possibilities: articulating to the top of academia and industry, enjoying the perks of relaxation from activity and preventing the onset of age-related body-breakdown.  
+* You will need 1000 pedagogy breasonings for text to breasonings for enough breasonings per breasoning session, 80 meditation breasonings, 80 medicine breasonings for anti-ageing, 80 time travel breasonings and 80 mind reading breasonings, 80 breasonings for having a spiritual future apartment and 80 breasonings for having a spiritual future computer, indicated in the present and the correct set of dates in 5689 each day after joining the simulation for immortality without a laptop with power supply. Otherwise, you can run the algorithm in this repository.
+* Welcome to Lucian's Time Machine, which offers a positive way of life, extending life for those who would like it and bringing advanced technology to us so that all may enjoy immortality through meditation.
+* The way of life in the simulation is relaxing; there is no pressure to work, and one can live on a pension, creating art, studying and having fun.
+* Imagine the possibilities: articulating to the top of academia and industry, enjoying the perks of relaxation from activity and preventing the onset of age-related body breakdown.  
 
-* Warning: Changing the algorithm to not include meditation may be fatal.  You should meditate with 108 arems and 108 greens before and after travel.
+* Warning: Changing the algorithm not to include meditation may be fatal.  You should meditate with 108 arems and 108 greens before and after travel.
 * Travel through time with meditation.
 * <a href="https://www.youtube.com/watch?v=YojBn1UcFKo&t=14s">Youtube video</a>
 * "I can convert myself to a bot, convert shadow bots to bots (allowing people and finance) and time travel as a bot (all with 250 breasonings).  There is a lag while people are ready for you to time travel."
