@@ -1,8 +1,8 @@
 # big_medit1.sh
 
-* Automatically time travel and increase the longevity of your meditators each day.
+* Automatically help meditators to time travel each day and increase their longevity.
 
-* Add meditators (e.g. john not John) to `Text-to-Breasonings/meditatorsanddoctors.pl`.
+* Add meditators (e.g. john, not John) to `Text-to-Breasonings/meditatorsanddoctors.pl`.
 
 * When you add a meditator, please invite them to the simulation when they end up in 5689 at the end of the first day with `texttobr2_1(*number of new meditators)`, e.g. `texttobr2_1(1).`.
 
