@@ -22,4 +22,4 @@ cd Daily-Regimen
 ./d-prep.sh  # if necessary
 ./d.sh
 ```
-four times to switch off home and future ageing and switch them off being switched off.
+four times to switch off home and future ageing and switch them off being switched off, done twice, once in the present and once in 5689.
