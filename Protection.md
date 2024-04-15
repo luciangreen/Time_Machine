@@ -23,4 +23,4 @@ cd Daily-Regimen
 ./d.sh
 ```
 four times to switch off home and future ageing and switch them off being switched off, done twice, once in the present and once in 5689.
-Do the above four times again (to install time crystals to indicate arguments are automatically breasoned out after daily meditation, to use these time crystals, done twice, once in the present and once in 5689), multiplied for each argument (text to breasonings for enough breasonings per breasoning, meditation, medicine breasonings for anti-ageing, time travel breasonings and mind reading).
+* Do the above four times again (to install time crystals to indicate arguments are automatically breasoned out after daily meditation, to use these time crystals, done twice, once in the present and once in 5689), multiplied for each argument (text to breasonings for enough breasonings per breasoning, meditation, medicine breasonings for anti-ageing, time travel breasonings and mind reading).
