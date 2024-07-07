@@ -3,6 +3,8 @@ Image of blue vertical lines disappearing into a vanishing point (Photo by <a hr
 
 # Time_Machine
 
+* Summary: To become immortal, you can dot on the co-op’s previous day’s 16k breasonings for meditation and 16k breasonings for anti-ageing medicine in your home time each day without time travelling with two radio buttons (1*1*0.5 cm for a radio button). Don’t forget to lock off ageing (to other people) and lock off this lock being tampered with further 16k breasonings for each lock. The locks are done once. Tell others about this repository or dot the breasonings on for them each day with their consent to help them become immortal.
+
 * You will need 1000 pedagogy breasonings for text to breasonings for enough breasonings per breasoning session, 80 meditation breasonings, 80 medicine breasonings for anti-ageing, 80 time travel breasonings, 80 mind reading breasonings, 80 time crystal breasonings, 80 breasonings for having a spiritual future apartment and 80 breasonings for having a spiritual future computer, indicated in the present and the correct set of dates in 5689 each day after joining the simulation for immortality without a laptop with power supply. Otherwise, you can run the algorithm in this repository.
 * Welcome to Lucian's Time Machine, which offers a positive way of life, extending life for those who would like it and bringing advanced technology to us so that all may enjoy immortality through meditation.
 * The way of life in the simulation is relaxing; there is no pressure to work, and one can live on a pension, creating art, studying and having fun.
