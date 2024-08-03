@@ -62,6 +62,8 @@ halt
 
 - <a href="https://github.com/luciangreen/Time_Machine/blob/main/Protection.md">Additional Protection from Dying</a>
 
+- <a href="https://github.com/luciangreen/Time_Machine/blob/main/prevent_others_dying.md">Prevent Others From Dying</a>
+
 # Running
 
 * In Shell:
