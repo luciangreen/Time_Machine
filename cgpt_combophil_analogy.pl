@@ -56,9 +56,9 @@ Week_ago is TS1-TSD,
 	directory_files(Dept1,F),
 	delete_invisibles_etc(F,G),
 	member(G00,G),
-	concat_list([Dept,"/",G00],G001),
-	time_file(G001,T1),
-	T1 > Week_ago
+	concat_list([Dept,"/",G00],G001)%,
+	%time_file(G001,T1),
+	%T1 > Week_ago
 	),G1),
 	%trace,
 	delete_all(String02a,G1,G2),
