@@ -13,4 +13,4 @@ L = ['person a','person b'],length(L,N1),N is N1*80,cgpt_combophil(N).
 
 * where `['person a','person b']` is replaced with a list of meditators to watch.
 
-* This command breasons out a 250-breasoning high distinction for each meditator at midnight to prevent people from dying. It is recommended to run this script daily. Unfortunately, because of the time and money to run ChatGPT, it may take too long, and spot-checks may be necessary.
+* This command breasons out an 80-breasoning high distinction for each meditator at midnight to prevent people from dying. It is recommended to run this script daily. Unfortunately, because of the time and money to run ChatGPT, it may take too long, and spot-checks may be necessary.
