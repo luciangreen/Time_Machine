@@ -87,8 +87,8 @@ working_directory1(_,WD),
 	)),
 	
 %findall(G4,(member(_,[_]),
-	combophil_alg_log(Num,Phil410010,%G4)),
-	G41),
+T1 is Num*22.5*1.1,
+(catch(call_with_time_limit(T1,combophil_alg_log(Num,Phil410010,G41)),_,fail)->true;(writeln("Error: Timeout."),abort)),
  
  	working_directory(_,A000),
 
