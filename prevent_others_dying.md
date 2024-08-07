@@ -8,7 +8,7 @@
 cd Time_Machine
 swipl
 ['cgpt_combophil_analogy.pl'].
-L = ['person a','person b'],length(L,N1),N is N1*250,cgpt_combophil(N).                                               
+L = ['person a','person b'],length(L,N1),N is N1*80,cgpt_combophil(N).                                               
 ```
 
 * where `['person a','person b']` is replaced with a list of meditators to watch.
