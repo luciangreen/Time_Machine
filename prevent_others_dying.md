@@ -22,4 +22,4 @@ cd Daily-Regimen
 ./anti_moral_end_meditators.sh
 ```
 
-* One may indicate 16k breasonings for each meditator at the start of each day and once at the start before the co-op breasons them out instead of using this algorithm.
+* One may NOT indicate 16k breasonings for each meditator at the start of each day and once at the start before the co-op breasons them out instead of using this algorithm. The professional requirement is breasoning out 80 sentence breasonings to prevent a moral end. In addition, one should originally write 80 sentence breasonings per week for maintenance.
