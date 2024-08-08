@@ -21,3 +21,5 @@ L = ['person a','person b'],length(L,N1),N is N1*80,cgpt_combophil(N).
 cd Daily-Regimen
 ./anti_moral_end_meditators.sh
 ```
+
+* One may indicate 16k breasonings for each meditator at the start of each day and once at the start before the co-op breasons them out instead of using this algorithm.
