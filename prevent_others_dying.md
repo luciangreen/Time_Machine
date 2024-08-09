@@ -23,3 +23,14 @@ cd Daily-Regimen
 ```
 
 * One may NOT indicate 16k breasonings for each meditator at the start of each day and once at the start before the co-op breasons them out instead of using this algorithm. The professional requirement is breasoning out 80 sentence breasonings to prevent a moral end. In addition, one should originally write 80 sentence breasonings per week for maintenance.
+
+* The best way to originally write 80 sentence breasonings is to write a word to expand to 80 breasonings in `Text-to-Breasonings/file.txt`, then run:
+
+```
+cd Algorithm-Writer-with-Lists
+swipl
+['grammar_logic_to_alg.pl'].
+grammar_logic_to_alg1.
+```
+
+Then find the unique breasoning words in `file.txt` and expand them to a sentence about the original word.
