@@ -33,4 +33,9 @@ swipl
 grammar_logic_to_alg1.
 ```
 
-Then find the unique breasoning words in `file.txt` and expand them to a sentence about the original word.
+* Then find the unique breasoning words in `file.txt` and expand them to a sentence about the original word.
+
+* In summary:
+ * `grammar_logic_to_alg.pl` - This is the mainstay algorithm that can act as a mind-mapping tool to write sentence breasonings (and is much faster for people than sitting there thinking of inspiration, crossing sentences to words or trying to write a use, the algorithm description and three steps, which I aim for, without any computer science arguments as practise).
+ * `cgpt_combophil_analogy.pl` - This generates 80 sentence breasonings, as connections between previous breasonings and words, for a limited number of meditators. I prefer to write my breasonings for safety, developedness and publishability.
+ * `./anti_moral_end_meditators.sh` - This breasons out 16k breasonings as duplicates of the 250 Quantum Box breasoning arguments for the rest of the meditators.
