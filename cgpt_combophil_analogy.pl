@@ -12,10 +12,13 @@
 %:- include('../listprologinterpreter/listprolog.pl').
 :- include('../Daily-Regimen/chatgpt_qa.pl').
 :- include('../Text-to-Breasonings/text_to_breasonings.pl').
-%:-include('../include_working_algorithm_lines.pl').
+%:-include('../private/include_working_algorithm_lines.pl').
 :-include('../Algorithm-Writer-with-Lists/grammar_logic_to_alg.pl').
+:-include('analogy_generator_n.pl').
 
 :- use_module(library(date)).
+
+:-dynamic words_for_sent/1.
 
 string(String) --> list(String).
 
@@ -60,6 +63,7 @@ Week_ago is TS1-TSD,
 	%time_file(G001,T1),
 	%T1 > Week_ago
 	),G1),
+	(G1=[]->abort;true),
 	%trace,
 	delete_all(String02a,G1,G2),
 	findall([G51,G52,0],(member([G51,G52],G2)),G6),
@@ -87,13 +91,16 @@ working_directory1(_,WD),
 	)),
 	
 %findall(G4,(member(_,[_]),
-T1 is Num*22.5*1.1,
-(catch(call_with_time_limit(T1,combophil_alg_log(Num,Phil410010,G41)),_,fail)->true;(writeln("Error: Timeout."),abort)),
+%T1 is Num*22.5*1.1,
+%(catch(call_with_time_limit(T1,
+combophil_alg_log(Num,Phil410010,G41),%),_,fail)->true;(writeln("Error: Timeout."),abort)),
  
  	working_directory(_,A000),
 
 get_time(TS),stamp_date_time(TS,date(Year,Month,Day,Hour1,Minute1,Seconda,_A,_TZ,_False),local),
 	foldr(string_concat,["oldphil-", Year ,"-", Month ,"-", Day ,"-", Hour1 ,"-", Minute1 ,"-", Seconda,".txt"],FN),
+	length(G41,G41L),
+	(not(Num=G41L)->writeln(["Warning: ",G41L," entries, not ",Num," entries generated."]);true),
    term_to_atom(G41,String1),
 	save_file_s(FN,String1),
 	
@@ -158,15 +165,22 @@ combophil_alg_log(Num,Phil410010,G2) :-
 	" because ",Phil410018,
 	" because ",Phil410019],Q11),
 	*/
-	Nums2 is ceiling(Num/2),
-	length(List2,Nums2),
-	findall([W1,W2],(member(_,List2),
+	retractall(words_for_sent(_)),
+	assertz(words_for_sent([])),
+	%Nums2 is ceiling(Num),
+	length(List2,Num),%Nums2),
+	findall(W1,(member(_,List2),
+	words_for_sent(WS),
 	find_until_passes((
 	generate_sentence([A12],Sentence),
-	[_,_,W1,W2|_]=Sentence
-	))
-	),W3),
-	flatten(W3,W4),
+	[_,_,W1,_W2|_]=Sentence,
+	not(member(W1,WS))
+	)),
+	append(WS,[W1],WS1),
+	retractall(words_for_sent(_)),
+	assertz(words_for_sent(WS1))
+	),W4),
+	%flatten(W3,W4),
 	
 	findall(G4,(member(W5,W4),
 
@@ -175,17 +189,37 @@ combophil_alg_log(Num,Phil410010,G2) :-
 	" for ",W5," in one sentence?"],Q1),
 	writeln(Q1),
 	q(Q1,A1),
-	writeln(A1),
+	
+	analogy_generator(AGN),
+	
+	get_time(TS2),
+	stamp_date_time(TS2,date(Y1, M1, D1, _, _, _, _, _, _),0),
+	%trace,
+	%pwd,
+	working_directory(WD,WD),
+	working_directory(_,'../../Time_Machine/'),	
+	open_file_s("analogy_sentence_n.txt",[D2,M2,Y2,n=SN2]),
+	
+	((D1=D2,M1=M2,Y1=Y2)->(SN3=SN2,SN4 is SN2+1);
+	(SN4 = 0,SN3=SN4)),
+	save_file_s("analogy_sentence_n.txt",[D1,M1,Y1,n=SN4]),
+		working_directory(_,WD),	
+
+	foldr(string_concat,["Generator ",AGN,"'s sentence ",SN3," on ",D1,".",M1,".",Y1," is: "],S_text),
+	
+	string_concat(S_text,A1,A10),
+	writeln(A10),
 
 	foldr(string_concat,["What is a Prolog algorithm for an analogy or use of ",A12,
 	" for ",W5,"?"],Q2),
 	writeln(Q2),
 	q(Q2,A2),
-	writeln(A2),
+	string_concat(S_text,A2,A20),
+	writeln(A20),
 	
 	%include_working_algorithm_lines(A2,A3)
 	
-G4=[A1,A2%,A3
+G4=[A10,A20%,A3
 ]),G2).
 		
 get_text1(R,Phil412) :-
