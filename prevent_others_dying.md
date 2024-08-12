@@ -15,7 +15,7 @@ L = ['person a','person b'],length(L,N1),N is N1*80,cgpt_combophil(N).
 
 * This command breasons out an 80-breasoning high distinction for each meditator at midnight to prevent people from dying. Running this script daily is recommended. Unfortunately, because of the time and money to run ChatGPT, it may take too long, and spot-checks may be necessary.
 
-* One may NOT indicate 16k breasonings for each meditator at the start of each day and once at the start before the co-op breasons them out instead of using this algorithm. The professional requirement is breasoning out 80 sentence breasonings to prevent a moral end. In addition, one should originally write 80 sentence breasonings per week for maintenance.
+* One may NOT indicate 16k breasonings for each meditator at the start of each day and once at the beginning before the co-op breasons them out instead of using this algorithm. The professional requirement is breasoning out 80 sentence breasonings to prevent a moral end. In addition, one should originally write 80 sentence breasonings per week for maintenance.
 
 * The best way to originally write 80 sentence breasonings is to write a word to expand to 80 breasonings in `Text-to-Breasonings/file.txt`, then run:
 
@@ -31,3 +31,6 @@ grammar_logic_to_alg1.
 In summary:
 * `grammar_logic_to_alg.pl` - This is the mainstay algorithm that can act as a mind-mapping tool to write sentence breasonings (and is much faster for people than sitting there thinking of inspiration, crossing sentences to words or trying to write a use (at the end), the algorithm description and three steps, which I aim for, without any computer science arguments as practise).
 * `cgpt_combophil_analogy.pl` - This generates 80 sentence breasonings, as connections between previous breasonings and words, for a limited number of meditators. I prefer to write my breasonings for safety, developedness and publishability.
+
+* In an emergency, breason out <a href="https://github.com/luciangreen/Lucian-Academy/tree/main/Books">80 old sentence breasonings</a> with the date as part of each sentence to make them new. I would write 80 new sentence breasonings using GL, but inexperienced breasoners, the late and the busy, may prefer this.
+* This is not currently necessary, but if the breasonings each required algorithms, then one could use <a href="https://github.com/luciangreen/Philosophy">Spec to Algorithm</a>. Warning: do NOT program breasonings before the life-saving stage of writing or finding and breasoning them.
