@@ -29,8 +29,8 @@ grammar_logic_to_alg1.
 * Then find the unique breasoning words in `file.txt` and expand them to a sentence about the original word.
 
 In summary:
-* `grammar_logic_to_alg.pl` - This is the mainstay algorithm that can act as a mind-mapping tool to write sentence breasonings (and is much faster for people than sitting there thinking of inspiration, crossing sentences to words or trying to write a use (at the end), the algorithm description and three steps, which I aim for, without any computer science arguments as practise).
+* `grammar_logic_to_alg.pl` - This is the mainstay algorithm that can act as a mind-mapping tool to write sentence breasonings (and is much faster for people than sitting there thinking of inspiration, crossing sentences to words or trying to write a use (at the end), the algorithm description and three steps, which I aim for, without any computer science arguments as practice).
 * `cgpt_combophil_analogy.pl` - This generates 80 sentence breasonings, as connections between previous breasonings and words, for a limited number of meditators. I prefer to write my breasonings for safety, developedness and publishability.
 
-* In an emergency, breason out <a href="https://github.com/luciangreen/Lucian-Academy/tree/main/Books">80 old sentence breasonings</a> with the date as part of each sentence to make them new. I would write 80 new sentence breasonings using GL, but inexperienced breasoners, the late and the busy, may prefer this.
+* In an emergency, breason out <a href="https://github.com/luciangreen/Lucian-Academy/tree/main/Books">80 old sentence breasonings</a> with the date as part of each sentence to make them new. I would write 80 new sentence breasonings using GL, but inexperienced breasoners, the late and the busy, may prefer this. A sentence breasoning is any word, NOT character breasoning from the sentence.
 * This is not currently necessary, but if the breasonings each required algorithms, then one could use <a href="https://github.com/luciangreen/Philosophy">Spec to Algorithm</a>. Warning: do NOT program breasonings before the life-saving stage of writing or finding and breasoning them.
