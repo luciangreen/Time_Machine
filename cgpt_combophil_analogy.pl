@@ -14,7 +14,7 @@
 :- include('../Text-to-Breasonings/text_to_breasonings.pl').
 %:-include('../private/include_working_algorithm_lines.pl').
 :-include('../Algorithm-Writer-with-Lists/grammar_logic_to_alg.pl').
-:-include('analogy_generator_n.pl').
+%:-include('analogy_generator_n.pl').
 
 :- use_module(library(date)).
 
@@ -196,6 +196,7 @@ combophil_alg_log(Num,Phil410010,G2) :-
 	stamp_date_time(TS2,date(Y1, M1, D1, _, _, _, _, _, _),0),
 	%trace,
 	%pwd,
+	/*
 	working_directory(WD,WD),
 	working_directory(_,'../../Time_Machine/'),	
 	open_file_s("analogy_sentence_n.txt",[D2,M2,Y2,n=SN2]),
@@ -209,7 +210,9 @@ combophil_alg_log(Num,Phil410010,G2) :-
 	
 	string_concat(S_text,A1,A10),
 	writeln(A10),
-
+	*/
+	A1=A10,
+	
 	foldr(string_concat,["What is a Prolog algorithm for an analogy or use of ",A12,
 	" for ",W5,"?"],Q2),
 	writeln(Q2),
