@@ -35,7 +35,8 @@ cd List-Prolog-Package-Manager
 swipl
 ['lppm'].
 lppm_install("luciangreen","Time_Machine").
-halt
+../
+halt.
 ```
 
 # Caution:
