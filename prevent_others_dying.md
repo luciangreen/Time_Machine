@@ -51,3 +51,9 @@ Notes:
 * The minimum number of required mind-read decision points of the algorithms is one decision point to 250 or more algorithms. Understanding an algorithm (by using <a href="https://github.com/luciangreen/mindreader">mind-reading software</a> or collecting a comment and writing and breasoning out a word from part of a predicate based on it) is crucial for a meditator to survive.
 * Understanding an algorithm is necessary for each meditator on the first day until midnight and the second day if the co-op has already breasoned the breasonings if relying on it.
 * <a href="https://lucianpedia.fandom.com/wiki/Prolog_Primer_with_family.pl">Prolog Primer</a>
+* To mind_read an algorithm from each meditator, run the following algorithm.
+```
+swipl
+['mrs2a_binary5.pl'].
+mrs2a_binary5
+```
