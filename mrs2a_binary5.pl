@@ -89,7 +89,7 @@ BrDict012=[["",1,[["box",1,[]]]],["a",1,[["up",1,[]]]],["aa",1,[["dash",1,[]]]],
 
 findall(_,(member(M4,M3),writeln([doing,M4]),
 
-numbers(250,1,[],Ns1),
+numbers(7,1,[],Ns1),
 
 findall(_,(member(_,Ns1),
 
