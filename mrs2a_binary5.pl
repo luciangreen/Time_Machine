@@ -112,6 +112,7 @@ S=
 %S=[[[input,[['A',Ws1]]]],[output,[['B',[success]]]]],
 
 spec_to_algorithm(algorithm,S,CBM,Alg1),
+writeln(Alg1),
 %trace,
 texttobr2(u,u,Alg1,u,[auto,on])
 ))
