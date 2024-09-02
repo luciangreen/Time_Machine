@@ -62,7 +62,9 @@ BrDict012=[["",1,[["box",1,[]]]],["a",1,[["up",1,[]]]],["aa",1,[["dash",1,[]]]],
 
 findall(_,(member(M4,M3),writeln([doing,M4]),
 
+numbers(250,1,[],Ns1),
 
+findall(_,(member(_,Ns1),
 
 find_until_passes((
 
@@ -113,4 +115,5 @@ spec_to_algorithm(algorithm,S,CBM,Alg1),
 %trace,
 texttobr2(u,u,Alg1,u,[auto,on])
 ))
+),_)
 ),_),!.
