@@ -9,7 +9,7 @@ mrs2a_binary5
 
 */
 
-:-include('../mindreader/mind_read1.pl').
+%:-include('../mindreader/mind_read1.pl').
 
 %:-include('../listprologinterpreter/listprolog.pl').
 :-include('../Text-to-Breasonings/meditatorsanddoctors.pl').
@@ -23,7 +23,9 @@ mind_read_mrs2a(Item,List0,List2) :-
 
 
 %trace,
-mind_read3([],P,List0),
+%mind_read3
+random_member(%[],
+P,List0),
 member([P,Type1],List2),
 join_san(P,Type1,Item),
 !.
@@ -74,13 +76,14 @@ retractall(vars_table_s2a(_)),                                               ass
 	assertz(algs([])),
 
 %S_or_L=l,%
-mind_read(S_or_L,[s,l]),
+%mind_read
+random_member(S_or_L,[s,l]),
 (%false%
 S_or_L=s
 ->
 (string_strings("abcdefghijklmnopqrstuvwxyz",L1),
-	mind_read(W1,L1),
-	mind_read(W2,L1),
+	random_member(W1,L1),
+	random_member(W2,L1),
 	L=[W1,W2])
 ;
 	%find_until_passes((
@@ -95,7 +98,7 @@ numbers(5,1,[],Ns),
 findall(W3,%find_until_passes
 ((
 member(_,Ns),
-mind_read(W3,L))),Ws),
+random_member(W3,L))),Ws),
 %trace,
 (S_or_L=s->(foldr(string_concat,Ws,Ws1),CBM=on);
 (%term_to_atom
