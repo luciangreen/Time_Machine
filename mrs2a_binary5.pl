@@ -9,7 +9,7 @@ mrs2a_binary5
 
 */
 
-%:-include('../mindreader/mind_read1.pl').
+:-include('../mindreader/mind_read1.pl').
 
 %:-include('../listprologinterpreter/listprolog.pl').
 :-include('../Text-to-Breasonings/meditatorsanddoctors.pl').
@@ -23,13 +23,40 @@ mind_read_mrs2a(Item,List0,List2) :-
 
 
 %trace,
-%mind_read3
-random_member(%[],
+%mind_read_mrs2a3
+mind_read_mrs2a3([],
 P,List0),
 member([P,Type1],List2),
 join_san(P,Type1,Item),
 !.
 
+mind_read_mrs2a3(Progress1,Progress2,[]%,_%,%Tree1,
+%Item2,Item1
+) :-
+	%(fail,member([Item2,_,[]],Tree1)->true;
+	%[Item2,_,[]]=Tree1),
+	append(Progress1,[%Item2
+	],Progress2),!.
+mind_read_mrs2a3(Progress1,Progress2,Options2%,_Options%,%Tree1,
+%Item2,Item1
+) :-
+%trace,
+	%subtract2(Tree1,Options,[],Tree2),
+	
+	%(true%length(Options2,1)
+	%->findall(A,member([_,_,A],Options2)%,length(A,L))
+	%,A1);(trace,
+	%Options2=[_,_,A],%trace,
+	%A1=[A])),
+	%foldr(append,A1,A2),
+	%mind_read10([Item2,_,A2],Options2),
+	random_member(%Tree1,
+	[Item2,_,A2],Options2),
+	%(member([Item2,_,A3],Options2)->true;[Item2,_,A3]=Options2),member(Item1,A3),
+	append(Progress1,[Item2],Progress4),
+	mind_read_mrs2a3(Progress4,Progress2,A2%,_Options%,%Tree1,
+	%Item2,Item1
+	).
 mrs2a_binary5 :-
 
 
