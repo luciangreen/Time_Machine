@@ -56,3 +56,4 @@ swipl
 ['mrs2a_binary5.pl'].
 mrs2a_binary5
 ```
+* `mrs2a_binary5` is unnecessary because `big_medit*.sh` breasons out 16k arguments and algorithms per meditator. `mrs2a_binary5` and similar algorithms help engage prospective customers.
