@@ -1,8 +1,8 @@
-:-include('../Time_Machine/analogy_generator_n.pl').
-:- include('../../GitHub/listprologinterpreter/la_files.pl').
+%:-include('../Time_Machine/analogy_generator_n.pl').
+%:- include('../../GitHub/listprologinterpreter/la_files.pl').
 
 t2b_br_adder(N) :-
-
+/*
 	get_time(TS2),
 	stamp_date_time(TS2,date(Y1, M1, D1, _, _, _, _, _, _),0),
 
@@ -16,9 +16,7 @@ t2b_br_adder(N) :-
 	)),
 	save_file_s("../Time_Machine/analogy_sentence_n.txt",[D1,M1,Y1,n=SN4]),
 		working_directory(_,WD)	
-
-	%foldr(string_concat,["Generator ",AGN,"'s sentence ",SN3," on ",D1,".",M1,".",Y1," is: "],_S_text),
-	
-	%string_concat(S_text,A1,A10),
-	%working_directory(_,WD)
+*/
+	% It is breasoning n
+	!
 	.
