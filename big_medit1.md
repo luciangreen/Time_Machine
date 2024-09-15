@@ -8,7 +8,7 @@
 
 * Please record that you have invited them to the simulation in `Text-to-Breasonings/meditatorsanddoctors.pl`.
 
-* If using `big_medit1.pl` below, replace the secret key in `chatgpt_qa.pl` according to ChatGPT. You may comment/uncomment lines of the script at `Daily-Regimen/big_medit.sh`.
+* If using `big_medit1.pl` below, replace the secret key in `chatgpt_qa.pl` according to ChatGPT. You may comment/uncomment lines of the script at `Text-to-Breasonings/big_medit.sh`.
 
 # Weekly Instructions
 
@@ -20,7 +20,7 @@ rm -rf Philosophy Lucian-Academy
 git clone https://github.com/luciangreen/Philosophy.git
 git clone https://github.com/luciangreen/Lucian-Academy.git
 
-cd Daily-Regimen
+cd Text-to-Breasonings
 ./d-prep.sh
 ```
 
@@ -31,13 +31,13 @@ cd Daily-Regimen
 * Run the daily script with:
 
 ```
-cd Daily-Regimen
+cd Text-to-Breasonings
 ./big_medit1.sh
 ```
 
 * Or, run the (much) faster daily script:
 
 ```
-cd Daily-Regimen
+cd Text-to-Breasonings
 ./big_medit2.sh
 ```

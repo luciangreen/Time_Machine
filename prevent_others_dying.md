@@ -15,10 +15,10 @@ L = ['person a','person b'],length(L,N1),N is N1*80,cgpt_combophil(N).
 
 * The previous command breasons out an 80-breasoning high distinction for each meditator at midnight to prevent people from dying. I would recommend running this script daily. Unfortunately, because of the time and money to run ChatGPT, it may take too long, and spot-checks may be necessary.
 
-* This is done for all meditators automatically at the end of `Daily-Regimen/big_medit1.sh` and the much faster `Daily-Regimen/big_medit2.sh`, but running the script below once at the start covers all the meditators until midnight that night. (One doesn't need to run `cgpt_combophil_analogy.pl` apart from until midnight the first night. If one indicates 16k breasonings, one should also run `cgpt_combophil_analogy.pl`. Indicating 16k breasonings runs the risk of no protection until midnight and the first day if the co-op has already breasoned out the argument.)
+* This is done for all meditators automatically at the end of `Text-to-Breasonings/big_medit1.sh` and the much faster `Text-to-Breasonings/big_medit2.sh`, but running the script below once at the start covers all the meditators until midnight that night. (One doesn't need to run `cgpt_combophil_analogy.pl` apart from until midnight the first night. If one indicates 16k breasonings, one should also run `cgpt_combophil_analogy.pl`. Indicating 16k breasonings runs the risk of no protection until midnight and the first day if the co-op has already breasoned out the argument.)
 
 ```
-cd Daily-Regimen
+cd Text-to-Breasonings
 ./anti_moral_end_meditators.sh
 ```
 
