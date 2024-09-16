@@ -18,8 +18,6 @@
 
 :- use_module(library(date)).
 
-:-dynamic words_for_sent/1.
-
 string(String) --> list(String).
 
 list([]) --> [].
@@ -165,21 +163,10 @@ combophil_alg_log(Num,Phil410010,G2) :-
 	" because ",Phil410018,
 	" because ",Phil410019],Q11),
 	*/
-	retractall(words_for_sent(_)),
-	assertz(words_for_sent([])),
 	%Nums2 is ceiling(Num),
 	length(List2,Num),%Nums2),
-	findall(W1,(member(_,List2),
-	words_for_sent(WS),
-	find_until_passes((
-	generate_sentence([A12],Sentence),
-	[_,_,W1,_W2|_]=Sentence,
-	not(member(W1,WS))
-	)),
-	append(WS,[W1],WS1),
-	retractall(words_for_sent(_)),
-	assertz(words_for_sent(WS1))
-	),W4),
+	brdict(B),
+	maplist(random_word(B),List2,W4),
 	%flatten(W3,W4),
 	
 	findall(G4,(member(W5,W4),
