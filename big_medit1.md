@@ -35,6 +35,9 @@ cd Text-to-Breasonings
 ./big_medit1.sh
 ```
 
+* Check whether `big_medit1.sh` was `Trying` or `Failed` a particular item in `big_medit.sh` or whether it has `Finished`.
+* An audio cue (check the sound is on) announces "Attention (is) needed" when there is a set of prompts. If the cue plays, the display has temporarily stopped, or the `% Unknown message:` (in green) with instructions has been displayed, please follow these prompts. Usually, the first line of `% Unknown message:` is `echo`, a Linux command used to write strings for Shell (the terminal).
+
 * Or, run the (much) faster daily script:
 
 ```
