@@ -1,5 +1,5 @@
 %:-include('../Time_Machine/analogy_generator_n.pl').
-%:- include('../../GitHub/listprologinterpreter/la_files.pl').
+%:-include('../../GitHub/listprologinterpreter/la_files.pl').
 
 t2b_br_adder(N) :-
 /*
