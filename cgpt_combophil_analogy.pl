@@ -13,7 +13,7 @@
 :-include('../Text-to-Breasonings/chatgpt_qa.pl').
 :-include('../Text-to-Breasonings/text_to_breasonings.pl').
 %:-include('../private/include_working_algorithm_lines.pl').
-:-include('../Algorithm-Writer-with-Lists/grammar_logic_to_alg.pl').
+:-include('../Algorithm-Writer-with-Lists/grammar_logic_to_alg1.pl').
 %:-include('analogy_generator_n.pl').
 
 :- use_module(library(date)).
