@@ -1,6 +1,11 @@
-* Immortality Script
+# Immortality Script
 
-To become immortal, install https://github.com/luciangreen/Time_Machine, run Text-to-Breasonings/d-prep.sh, then cd Dropbox/GitHub/Text-to-Breasonings/
+To become immortal, install `https://github.com/luciangreen/Time_Machine`
+, run:
+
+```
+cd ../Text-to-Breasonings
+./d-prep.sh
 ./bc12.sh # meditation
 ./bc12.sh
 ./bc12.sh # body replacement immortality age prevention
@@ -43,4 +48,6 @@ To become immortal, install https://github.com/luciangreen/Time_Machine, run Tex
 ./bc12.sh
 ./bc12.sh # save body to use as replacement
 ./bc12.sh
+```
+
 Then optionally indicate switching on meditation, ageing-preventing body-replacing immortality medicine and death prevention switches each day.
