@@ -1,6 +1,6 @@
 # Immortality Script
 
-To become immortal, install `<a href="https://github.com/luciangreen/Time_Machine">https://github.com/luciangreen/Time_Machine</a>`
+To become immortal, install <a href="https://github.com/luciangreen/Time_Machine">https://github.com/luciangreen/Time_Machine</a>
 , run:
 
 ```
