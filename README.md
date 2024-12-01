@@ -65,6 +65,8 @@ halt.
 
 - <a href="https://github.com/luciangreen/Time_Machine/blob/main/prevent_others_dying.md">Prevent Others From Dying</a>
 
+- <a href="https://github.com/luciangreen/Time_Machine/blob/main/Immortality_Script.md">Immortality Script</a>
+
 # Running
 
 * In Shell:
