@@ -39,13 +39,18 @@ cd ../Text-to-Breasonings
 ./bc12.sh # lock locking time crystals for death prevention
 ./bc12.sh
 
+./bc12.sh # save body to use as replacement
+./bc12.sh
+
+# Headache prevention (for but not immortality)
+
+./bc12.sh # quantum box medicine headache prevention
+./bc12.sh
 ./bc12.sh # time crystals for quantum box medicine headache prevention
 ./bc12.sh
 ./bc12.sh # lock time crystals for quantum box medicine headache prevention
 ./bc12.sh
 ./bc12.sh # lock locking time crystals for quantum box medicine headache prevention
-./bc12.sh
-./bc12.sh # save body to use as replacement
 ./bc12.sh
 ```
 
