@@ -5,6 +5,9 @@ To become immortal, install <a href="https://github.com/luciangreen/Time_Machine
 ```
 cd ../Text-to-Breasonings
 ./d-prep.sh
+
+# Do twice, once for present and once for 5689:
+
 ./bc12.sh # meditation
 ./bc12.sh
 ./bc12.sh # body replacement immortality age prevention
