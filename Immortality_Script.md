@@ -6,6 +6,7 @@
 To become immortal, install <a href="https://github.com/luciangreen/Time_Machine">https://github.com/luciangreen/Time_Machine</a> and run:
 
 ```
+# Please copy GitHub to GitHub-private2 or GitHub-dr and run in this folder
 cd ../Text-to-Breasonings
 ./d-prep.sh
 
