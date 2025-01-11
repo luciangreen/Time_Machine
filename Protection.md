@@ -18,6 +18,7 @@ It is better for you to time travel but they don't have to.
 * See <a href="big_medit1.md">big_medit1.md</a> for instructions on running a Prolog program to automatically time travel and increase the longevity of your meditators each day.
 * Run
 ```
+# Please copy GitHub to GitHub-private2 or GitHub-dr and run in this folder
 cd Text-to-Breasonings
 ./d-prep.sh  # if necessary
 ./d.sh
