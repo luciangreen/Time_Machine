@@ -20,7 +20,6 @@ rm -rf Philosophy Lucian-Academy
 git clone https://github.com/luciangreen/Philosophy.git
 git clone https://github.com/luciangreen/Lucian-Academy.git
 
-# Please copy GitHub to GitHub-private2 or GitHub-dr and run in this folder
 cd Text-to-Breasonings
 ./d-prep.sh
 ```
