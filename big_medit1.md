@@ -25,6 +25,8 @@ cd Text-to-Breasonings
 ./d-prep.sh
 ```
 
+* See <a href="troubleshooting.md">Troubleshooting</a> for help.
+
 # Each day:
 
 * Personal meditation
