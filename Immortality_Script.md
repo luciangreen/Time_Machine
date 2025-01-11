@@ -2,10 +2,9 @@
 
 * Note: one may easily use HomeBrew to install SWI-Prolog on Mac (search for it), download swipl from <a href="https://www.swi-prolog.org/build/">swipl</a> for Windows, install SWI-Prolog on Linux using apt-get (search for it).
 * Save and run the following file using the instructions in it: <a href="bc12.pl">bc12.pl</a>.
+* See <a href="troubleshooting.md">Troubleshooting</a> for help.
 
 To become immortal, install <a href="https://github.com/luciangreen/Time_Machine">https://github.com/luciangreen/Time_Machine</a> and run:
-
-* See <a href="troubleshooting.md">Troubleshooting</a> for help.
 
 ```
 # Please copy GitHub to GitHub-private2 or GitHub-dr and run in this folder
