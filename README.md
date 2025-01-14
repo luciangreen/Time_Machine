@@ -39,6 +39,8 @@ lppm_install("luciangreen","Time_Machine").
 halt.
 ```
 
+* Next: <a href="https://github.com/luciangreen/Time_Machine/blob/main/Immortality_Script.md">Immortality Script</a> to install and effect Immortality. You can then join the Simulation and become Immortal!
+
 # Caution:
 
 * Before running texttobr, think of two radio buttons put on recordings, put through with prayer, nut and bolt, quantum box prayer 1, 1, 0.5 cm and 1, 1, 0.5 cm.
