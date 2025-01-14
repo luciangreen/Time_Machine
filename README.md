@@ -26,6 +26,7 @@ Download <a href="http://github.com/luciangreen/Time_Machine/">this repository</
 # 2. Or Install from List Prolog Package Manager (LPPM)
 
 * Download the <a href="https://github.com/luciangreen/List-Prolog-Package-Manager">LPPM Repository</a>:
+* Installing Time Machine takes 2 minutes and running the Immortality Script takes 33 minutes.
 
 ```
 mkdir GitHub
