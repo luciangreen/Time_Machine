@@ -9,7 +9,6 @@ cd ../Text-to-Breasonings
 ./d-prep.sh
 
 # First time for present:
-# Do twice, once for present and once for 5689:
 
 ./bc12.sh # meditation
 ./bc12.sh
