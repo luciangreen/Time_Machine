@@ -17,7 +17,7 @@ Image of blue vertical lines disappearing into a vanishing point (Photo by <a hr
 
 # Prerequisites
 
-* Please download and install SWI-Prolog for your machine at `https://www.swi-prolog.org/build/`.
+* Please download and install <a href="https://www.swi-prolog.org/build/">SWI-Prolog</a> for your machine.
 
 # 1. Install manually
 
