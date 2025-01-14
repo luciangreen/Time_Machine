@@ -6,11 +6,11 @@
 
 ```
 cd ../Text-to-Breasonings
-./d-prep.sh
+./d-prep.sh # Takes 30 minutes
 
 # First time for present:
 
-./bc12.sh # meditation
+./bc12.sh # meditation - each bc12.sh takes 4 seconds
 ./bc12.sh
 ./bc12.sh # body replacement immortality age prevention
 ./bc12.sh
