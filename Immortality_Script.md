@@ -7,7 +7,6 @@
 
 ```
 cd ../Text-to-Breasonings
-chmod +x imm_script1.sh
 ./imm_script1.sh
 ```
 
