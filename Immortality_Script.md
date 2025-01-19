@@ -1,4 +1,4 @@
-l# Immortality Script
+# Immortality Script
 
 * Note: one may easily use HomeBrew to install SWI-Prolog on Mac (search for it), download swipl from <a href="https://www.swi-prolog.org/build/">swipl</a> for Windows or install SWI-Prolog on Linux using apt-get (search for it).
 * See <a href="troubleshooting.md">Troubleshooting</a> for help.
