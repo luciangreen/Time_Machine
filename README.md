@@ -11,6 +11,7 @@ Image of blue vertical lines disappearing into a vanishing point (Photo by <a hr
 * Imagine the possibilities: articulating to the top of academia and industry, enjoying the perks of relaxation from activity and preventing the onset of age-related body breakdown.  
 
 * Warning: Changing the algorithm not to include meditation may be fatal.  You should meditate with 108 arems and 108 greens before and after travel.
+* Please utter arem and friendliness instead of lucian and green.
 * Travel through time with meditation.
 * <a href="https://www.youtube.com/watch?v=YojBn1UcFKo&t=14s">Youtube video</a>
 * "I can convert myself to a bot, convert shadow bots to bots (allowing people and finance) and time travel as a bot (all with 250 breasonings).  There is a lag while people are ready for you to time travel."
