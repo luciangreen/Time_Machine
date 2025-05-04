@@ -20,6 +20,32 @@ Image of blue vertical lines disappearing into a vanishing point (Photo by <a hr
 
 * Please download and install <a href="https://www.swi-prolog.org/build/">SWI-Prolog</a> for your machine.
 
+# Mac, Linux and Windows (with Linux commands installed): Prepare to run swipl
+
+* In Terminal settings (Mac), make Bash the default shell:
+
+```
+/bin/bash
+```
+
+* In Terminal, edit the text file `~/.bashrc` using the text editor Nano:
+
+```
+nano ~/.bashrc
+```
+
+* Add the following to the file `~/.bashrc`:
+
+```
+export PATH="$PATH:/opt/homebrew/bin/"
+```
+
+* Link to swipl in Terminal:
+
+```
+sudo ln -s /opt/homebrew/bin/swipl /usr/local/bin/swipl
+```
+
 # 1. Install manually
 
 Download <a href="http://github.com/luciangreen/Time_Machine/">this repository</a>, <a href="http://github.com/luciangreen/Lucian-Academy/">Lucian-Academy</a>, <a href="http://github.com/luciangreen/listprologinterpreter/">List Prolog Interpreter</a>,  the <a href="https://github.com/luciangreen/Text-to-Breasonings">Text-to-Breasonings repository</a> and the repositories these repositories depend on.
