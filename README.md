@@ -18,7 +18,7 @@ Image of blue vertical lines disappearing into a vanishing point (Photo by <a hr
 
 # Prerequisites
 
-* Please download and install <a href="https://www.swi-prolog.org/build/">SWI-Prolog</a> for your machine.
+* Use a search engine to find the Homebrew (or other) Terminal install command for your platform and install it, and search for the Terminal command to install swipl using Homebrew and install it or download and install SWI-Prolog for your machine at  <a href="https://www.swi-prolog.org/build/">SWI-Prolog</a>.
 
 # Mac, Linux and Windows (with Linux commands installed): Prepare to run swipl
 
