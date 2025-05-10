@@ -101,7 +101,7 @@ halt.
 
 * <a href="https://github.com/luciangreen/Time_Machine">Time Machine on GitHub</a>, particularly the Immortality Script to become immortal.
 * <a href="https://github.com/luciangreen/Time_Machine/blob/main/big_medit1.md">Daily Big Meditation 1 Script for Time Travel and Body Replacement</a>.
-* The alternative to the Big Meditation 1 Script, praying for meditation for 108 arems, 108 friendlinesses, 16,000 breasonings, 108 arems and 108 friendlinesses for each step in (15 by 16k breasonings for an apartment in the time/body systems, body replacement, meditation, time travel, meditation) in the (present and future) followed by body replacement each day.
+* The alternative to the Big Meditation 1 Script is (where 108 utterances in each of the following should contain at least 3 utterances before the rest are indicated) 108 arems, 108 friendlinesses, 16,000 breasonings, 108 arems and 108 friendlinesses for each step in (15 by 16k breasonings for an apartment in the time/body systems, body replacement, meditation, time travel, meditation) in the (present and future) followed by body replacement each day.
 
 # Running
 
