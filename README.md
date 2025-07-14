@@ -103,6 +103,10 @@ halt.
 * <a href="https://github.com/luciangreen/Time_Machine/blob/main/big_medit1.md">Daily Big Meditation 1 Script for Time Travel and Body Replacement</a>.
 * The alternative to the Big Meditation 1 Script is the following. Note 108 utterances may require realistic time travel to a University Transcendental Meditation course. NB. Breasonings are words given by x, y and z dimensions, and 16,000 words come from everyday algorithms in natural language, for example, from my Lucian Academy books. Read these in the Lucian Academy/Books repository. Once you read or understand that they can be read, indicate them with a prayer or indicate them with 10 breasoned out words. NB. One hundred and eight utterances, representing 16,000 breasonings in each of the following, should contain at least three utterances or breasonings (an example of a breasoning is a 0.01 cm wide, 0.01 cm deep and 0.005 cm high plastic button) before the rest are indicated. Instructions: Repeat 108 arems, 108 friendlinesses (or just three of each of these utterances or three breasonings), 16,000 breasonings (or 10 breasonings), 108 arems and 108 friendlinesses for each step in (15 by 16k breasonings (say the word “fifteen”) for an apartment in the time (16k), body systems (11*16k), body replacement, meditation, time travel, meditation) in the (present and one of 1-16/10/5698 in the future, one day at a time) followed by body replacement each day.
 
+# How to cure disease
+
+* Cure disease with <a href="https://github.com/luciangreen/Time_Machine/blob/main/bc12.md">bc12.pl</a>.
+
 # Running
 
 * In Shell:
