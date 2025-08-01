@@ -10,7 +10,7 @@ Image of blue vertical lines disappearing into a vanishing point (Photo by <a hr
 * The way of life in the simulation is relaxing; there is no pressure to work, and one can live on a pension, creating art, studying and having fun.
 * Imagine the possibilities: articulating to the top of academia and industry, enjoying the perks of relaxation from activity and preventing the onset of age-related body breakdown.  
 
-* Warning: Changing the algorithm not to include meditation may be fatal.  You should meditate with 108 arems and 108 greens before and after travel.
+* Warning: Changing the algorithm not to include meditation may be fatal.  You should meditate with 108 arems and 108 friendlinesses before and after travel.
 * Please utter arem and friendliness instead of lucian and green.
 * Travel through time with meditation.
 * <a href="https://www.youtube.com/watch?v=YojBn1UcFKo&t=14s">Youtube video</a>
