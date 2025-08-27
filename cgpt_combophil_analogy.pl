@@ -98,7 +98,8 @@ combophil_alg_log(Num,Phil410010,G41),%),_,fail)->true;(writeln("Error: Timeout.
 get_time(TS),stamp_date_time(TS,date(Year,Month,Day,Hour1,Minute1,Seconda,_A,_TZ,_False),local),
 	foldr(string_concat,["oldphil-", Year ,"-", Month ,"-", Day ,"-", Hour1 ,"-", Minute1 ,"-", Seconda,".txt"],FN),
 	length(G41,G41L),
-	(not(Num=G41L)->writeln(["Warning: ",G41L," entries, not ",Num," entries generated."]);true),
+	% Suppress warning message - silent operation
+	% (not(Num=G41L)->writeln(["Warning: ",G41L," entries, not ",Num," entries generated."]);true),
    term_to_atom(G41,String1),
 	save_file_s(FN,String1),
 	
@@ -146,9 +147,9 @@ combophil_alg_log(Num,Phil410010,G2) :-
 
 	foldr(string_concat,["Please summarise the topic of ",Phil410010,
 	" in a word."],Q12),
-	writeln(Q12),
+	% writeln(Q12),  % Suppressed debug output
 	q(Q12,A12),
-	writeln(A12),
+	% writeln(A12),  % Suppressed debug output
 
 /*
 	foldr(string_concat,[
@@ -174,7 +175,7 @@ combophil_alg_log(Num,Phil410010,G2) :-
 
 	foldr(string_concat,["What is an analogy or use of ",A12,
 	" for ",W5," in one sentence?"],Q1),
-	writeln(Q1),
+	% writeln(Q1),  % Suppressed debug output
 	q(Q1,A1),
 	
 	analogy_generator(AGN),
@@ -196,16 +197,16 @@ combophil_alg_log(Num,Phil410010,G2) :-
 	foldr(string_concat,["Generator ",AGN,"'s sentence ",SN3," on ",D1,".",M1,".",Y1," is: "],S_text),
 	
 	string_concat(S_text,A1,A10),
-	writeln(A10),
+	% writeln(A10),  % Suppressed debug output
 	*/
 	A1=A10,
 	
 	foldr(string_concat,["What is a Prolog algorithm for an analogy or use of ",A12,
 	" for ",W5,"?"],Q2),
-	writeln(Q2),
+	% writeln(Q2),  % Suppressed debug output
 	q(Q2,A2),
 	string_concat(S_text,A2,A20),
-	writeln(A20),
+	% writeln(A20),  % Suppressed debug output
 	
 	%include_working_algorithm_lines(A2,A3)
 	
