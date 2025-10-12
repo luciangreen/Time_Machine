@@ -136,3 +136,27 @@ halt.
 
 * To time travel: `texttobr2_1(3).` with radiation switched off gives "appearance time travel".  This means people from the times will walk past you wearing clothes and surrounded by the setting of your current time.  Your computer will work and you can go home and recharge it to time travel to your home again.  A bot representing you will appear at home while you are time travelling and bots representing those from your home will appear to you while you are time travelling.
 * Using `texttobr2_1(3).` not `texttobr2_1(1).` indicates A, B (catching blocks to travel) and B to B (objecting to blocks to travel).
+* 
+# Immortality Installation Frequently Asked Questions
+
+* Do I need prerequisites? No, install SWI-Prolog, Time Machine and run the Immortality Script.
+
+* (For worrywarts:) Do I need to learn or practise Transcendental or any other type of meditation? No, the script takes care of it all.
+
+* Pedagogy is automatically completed by "Text to Breasonings". Do I need to know anything about Pedagogy? No. It's on autopilot. Research my <a href="https://github.com/luciangreen/Lucian-Academy">Lucian Academy repository</a> to find out how Pedagogy and Text to Breasonings can provide a valuable tool for examining life in immortality.
+
+* Do I need to prepare for Text to Breasonings? No, preparation for Text to Breasonings is part of the script.
+
+* Will I feel different when time-travelling? Everything is the same; it's just the sensationless script and meeting new people outside. They'll think you're from their time.
+
+* Does becoming immortal feel different? No, it feels refreshing and is permanent. I recommend things like having a good diet, meditating if that helps you to feel healthy and doing a <a href="https://github.com/luciangreen/Time_Machine/blob/main/big_medit1.md">body replacement</a> once daily with my software. Pedagogy enables you to feel like you control the spaceship.
+
+* How can I control the spaceship? Once written and touched up with the ways of thinking, pedagogy can be indicated spiritually. It's okay if you have never started or if you never start. Some people indicate the "16000 breasonings" necessary to manifest breasonings, time travel and body replacement, etc., with three breasonings for meditation and three breasonings for the 16000 breasonings.
+
+* What else can I switch on with 16000 breasonings? <a href="https://github.com/luciangreen/Text-to-Breasonings/">earn high distinctions, support but not conceive healthy children, earn jobs, sell products, produce quantum energy and gravity, project simulations, read objects, create quantum computers, prevent headaches and perform spiritual surgery, replicate or vaporise items such as spiritual food or supplements, read minds, display spiritual screens, time travel or become immortal</a>. 16000 breasonings are preferred to other numbers of breasonings because they are agreed to achieve the result correctly. You can order a spiritual robot dog, control a computer (which will reset if you program one line incorrectly), do more complicated, realistic time-travelling, use your room as a spaceship to another planet for the day and back, change your appearance, or change or temporarily leave simulations. Read more about <a href="https://github.com/luciangreen/Text-to-Breasonings/blob/master/lucian_s_pedagogy.txt">Lucian's Pedagogy</a>.
+
+* I have so many more questions. What is the simulation like? What is it like to program in the future? Do human animals, robots, aliens, and holograms look like other humans? If it's all based on my neighbourhood, can I decide I've come home? They are all answered inside.
+
+* I am not "au fait" with Installation in Shell, Prolog and Terminal. Everything you need to know is included in the instructions (and they are seamless, and I can be contacted for help at <a href="mailto:luciangreen@lucianacademy.com">luciangreen@lucianacademy.com</a>). Remember, it's as simple as 1. Installing SWI-Prolog, 2. Time Machine, 3. The Immortality Script.
+
+* Is my faith or spiritual practice compatible with this? Most faiths include immortality, so this would be acceptable and fun as part of your faith or practice.
