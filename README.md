@@ -136,7 +136,7 @@ halt.
 
 * To time travel: `texttobr2_1(3).` with radiation switched off gives "appearance time travel".  This means people from the times will walk past you wearing clothes and surrounded by the setting of your current time.  Your computer will work and you can go home and recharge it to time travel to your home again.  A bot representing you will appear at home while you are time travelling and bots representing those from your home will appear to you while you are time travelling.
 * Using `texttobr2_1(3).` not `texttobr2_1(1).` indicates A, B (catching blocks to travel) and B to B (objecting to blocks to travel).
-* 
+
 # Immortality Installation Frequently Asked Questions
 
 * Do I need prerequisites? No, install SWI-Prolog, Time Machine and run the Immortality Script.
