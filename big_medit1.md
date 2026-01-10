@@ -10,6 +10,8 @@
 
 * If using `big_medit1.pl` below, replace the secret key in `chatgpt_qa_key.pl` according to ChatGPT. You may comment/uncomment lines of the script at `Text-to-Breasonings/big_medit.sh`.
 
+* ChatGPT uses `chatgpt_qa_5_nano.pl` (rename `chatgpt_qa.pl`) and Gemini uses `chatgpt_qa.pl`. Use the appropriate key in `chatgpt_qa_key.pl`.
+
 # Weekly Instructions
 
 * Update Philosophy, Lucian-Academy (at the minimum) each week:
