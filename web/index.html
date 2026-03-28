@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tau Prolog Client App</title>
+    <script src="https://tau-prolog.org/tau-prolog.js"></script>
+</head>
+<body>
+    <h1>Tau Prolog Client-side Web App</h1>
+    <script>
+        // Entry point for loading Prolog files
+        const session = pl.create()
+
+        // Load bc12.pl and other Prolog files
+        session.consult("bc12.pl").then(function() {
+            console.log("bc12.pl loaded");
+        });
+
+        // Example query: time_machine_prepare
+        function runQuery(query) {
+            session.query(query);
+            session.answers(function(answer) {
+                console.log(answer);
+            });
+        }
+    </script>
+</body>
+</html>
