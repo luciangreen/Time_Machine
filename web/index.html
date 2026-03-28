@@ -1,29 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tau Prolog Client App</title>
-    <script src="https://tau-prolog.org/tau-prolog.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Time Machine — Tau Prolog client-side web app. Run Prolog queries in the browser on iPhone, Android or desktop.">
+  <title>Time Machine — Tau Prolog</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- Tau Prolog core engine (no server required) -->
+  <script src="https://cdn.jsdelivr.net/npm/tau-prolog@0.3.2/modules/core.js"></script>
 </head>
 <body>
-    <h1>Tau Prolog Client-side Web App</h1>
-    <script>
-        // Entry point for loading Prolog files
-        const session = pl.create()
+  <header>
+    <h1>⏳ Time Machine — Tau Prolog</h1>
+    <p class="subtitle">Client-side Prolog running entirely in your browser</p>
+  </header>
 
-        // Load bc12.pl and other Prolog files
-        session.consult("bc12.pl").then(function() {
-            console.log("bc12.pl loaded");
-        });
+  <div id="status" class="status loading">Loading…</div>
 
-        // Example query: time_machine_prepare
-        function runQuery(query) {
-            session.query(query);
-            session.answers(function(answer) {
-                console.log(answer);
-            });
-        }
-    </script>
+  <main>
+    <!-- Quick-action buttons -->
+    <div class="quick-actions">
+      <button data-query="tm_info.">tm_info.</button>
+      <button data-query="tm_prepare.">tm_prepare.</button>
+      <button data-query="tm_run(1).">tm_run(1).</button>
+      <button data-query="bc12_subset(3).">bc12_subset(3).</button>
+      <button data-query="bc12.">bc12.</button>
+    </div>
+
+    <!-- Query input -->
+    <div class="query-row">
+      <textarea
+        id="queryInput"
+        rows="1"
+        placeholder="Enter a Prolog query… (e.g. tm_prepare.)"
+        disabled
+      ></textarea>
+      <button id="runBtn" class="run-btn" disabled>Run</button>
+      <button id="clearBtn" class="clear-btn">Clear</button>
+    </div>
+
+    <!-- Output -->
+    <div id="output" role="log" aria-live="polite" aria-label="Query output"></div>
+  </main>
+
+  <footer>
+    Powered by <a href="https://tau-prolog.org" target="_blank" rel="noopener">Tau Prolog</a> &middot;
+    <a href="https://github.com/luciangreen/Time_Machine" target="_blank" rel="noopener">Source on GitHub</a>
+  </footer>
+
+  <script src="app.js"></script>
 </body>
 </html>

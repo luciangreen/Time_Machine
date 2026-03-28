@@ -1,0 +1,220 @@
+/* style.css - Mobile-friendly styles for Time Machine Tau Prolog web app */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg: #0d1117;
+  --surface: #161b22;
+  --border: #30363d;
+  --text: #e6edf3;
+  --muted: #8b949e;
+  --accent: #58a6ff;
+  --green: #3fb950;
+  --red: #f85149;
+  --yellow: #d29922;
+  --radius: 8px;
+  --font-mono: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial,
+               sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  padding: 0;
+}
+
+/* ── Header ──────────────────────────────────────────────────────────────── */
+
+header {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  padding: 1rem 1.25rem;
+}
+
+header h1 {
+  font-size: 1.25rem;
+  color: var(--text);
+}
+
+header p.subtitle {
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin-top: 0.2rem;
+}
+
+/* ── Status bar ─────────────────────────────────────────────────────────── */
+
+#status {
+  font-size: 0.82rem;
+  padding: 0.35rem 1.25rem;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  color: var(--muted);
+}
+
+#status.loading { color: var(--yellow); }
+#status.ready   { color: var(--green); }
+#status.error   { color: var(--red); }
+
+/* ── Main layout ────────────────────────────────────────────────────────── */
+
+main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  gap: 0.75rem;
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* ── Quick-action buttons ───────────────────────────────────────────────── */
+
+.quick-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.quick-actions button {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--accent);
+  padding: 0.4rem 0.75rem;
+  border-radius: var(--radius);
+  font-size: 0.82rem;
+  font-family: var(--font-mono);
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.quick-actions button:hover {
+  background: #1f2937;
+  border-color: var(--accent);
+}
+
+/* ── Query row ──────────────────────────────────────────────────────────── */
+
+.query-row {
+  display: flex;
+  gap: 0.5rem;
+  align-items: stretch;
+}
+
+#queryInput {
+  flex: 1;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text);
+  font-family: var(--font-mono);
+  font-size: 0.9rem;
+  padding: 0.55rem 0.75rem;
+  resize: none;
+  min-height: 2.6rem;
+  max-height: 6rem;
+}
+
+#queryInput:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+#queryInput:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.run-btn, .clear-btn {
+  padding: 0.55rem 1rem;
+  border-radius: var(--radius);
+  font-size: 0.9rem;
+  cursor: pointer;
+  border: 1px solid transparent;
+  white-space: nowrap;
+}
+
+.run-btn {
+  background: var(--accent);
+  color: #0d1117;
+  font-weight: 600;
+}
+
+.run-btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.run-btn:not(:disabled):hover {
+  background: #79c0ff;
+}
+
+.clear-btn {
+  background: var(--surface);
+  border-color: var(--border);
+  color: var(--muted);
+}
+
+.clear-btn:hover {
+  border-color: var(--red);
+  color: var(--red);
+}
+
+/* ── Output pane ────────────────────────────────────────────────────────── */
+
+#output {
+  flex: 1;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.75rem;
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  line-height: 1.5;
+  overflow-y: auto;
+  min-height: 200px;
+  max-height: 60vh;
+  word-break: break-word;
+}
+
+#output .query  { color: var(--accent); }
+#output .answer { color: var(--green); }
+#output .fail   { color: var(--muted); }
+#output .error  { color: var(--red); }
+
+/* ── Footer ─────────────────────────────────────────────────────────────── */
+
+footer {
+  text-align: center;
+  font-size: 0.78rem;
+  color: var(--muted);
+  padding: 0.75rem 1rem;
+  border-top: 1px solid var(--border);
+}
+
+footer a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+footer a:hover { text-decoration: underline; }
+
+/* ── Responsive tweaks ──────────────────────────────────────────────────── */
+
+@media (max-width: 480px) {
+  header h1 { font-size: 1.1rem; }
+  .run-btn, .clear-btn { padding: 0.55rem 0.65rem; font-size: 0.85rem; }
+}
