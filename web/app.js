@@ -91,18 +91,13 @@
 
       session = pl.create(200000);
 
-      appendOutput('Fetching bc12_subset.pl…');
-      var src1 = await fetchText('prolog/bc12_subset.pl');
-      await consultSource(src1, 'bc12_subset.pl');
-      appendOutput('✓ bc12_subset.pl loaded');
-
-      appendOutput('Fetching time_machine_browser.pl…');
-      var src2 = await fetchText('prolog/time_machine_browser.pl');
-      await consultSource(src2, 'time_machine_browser.pl');
-      appendOutput('✓ time_machine_browser.pl loaded');
+      appendOutput('Fetching big_medit2-web.pl…');
+      var src1 = await fetchText('prolog/big_medit2-web.pl');
+      await consultSource(src1, 'big_medit2-web.pl');
+      appendOutput('✓ big_medit2-web.pl loaded');
 
       setStatus('Ready — enter a query below and press Run', 'ready');
-      appendOutput('Prolog sources loaded. Try: tm_info. or tm_prepare. or bc12_subset(3).');
+      appendOutput('Prolog sources loaded. Try: run.');
       document.getElementById('runBtn').disabled = false;
       document.getElementById('queryInput').disabled = false;
     } catch (e) {
