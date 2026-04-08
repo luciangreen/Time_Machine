@@ -97,7 +97,7 @@
       appendOutput('✓ big_medit2-web.pl loaded');
 
       setStatus('Ready — enter a query below and press Run', 'ready');
-      appendOutput('Prolog sources loaded. Try: run.');
+      appendOutput('Prolog sources loaded. Try: main.');
       document.getElementById('runBtn').disabled = false;
       document.getElementById('queryInput').disabled = false;
     } catch (e) {
