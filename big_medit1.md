@@ -48,3 +48,6 @@ cd Text-to-Breasonings
 cd Text-to-Breasonings
 ./big_medit2.sh
 ```
+# New - big_medit2.pl deployment
+
+* Run `main.` on <a href="https://luciangreen.github.io/Time_Machine/web/">big_medit2.pl online deployment</a> to control body replacement and time travel, then meditate on these time travel transitions.
