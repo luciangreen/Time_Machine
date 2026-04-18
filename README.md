@@ -119,7 +119,6 @@ halt.
 
 * Run `main.` on <a href="https://luciangreen.github.io/Time_Machine/web/">big_medit2.pl online deployment</a> to control body replacement and time travel, then meditate on these time travel transitions.
 * New: now also become immortal here or run bc12.pl.
-* New: now sell the <a href="https://github.com/luciangreen/Time_Machine/blob/main/anarchy_quiz.txt">Anarchy Quiz</a> for 55 Spiritual Dollars to help pay for an apartment (this is the point of the simulation and helps in the post-multividual phase to avoid things going missing but remain in the simulation and immortal). It helps when trying to exit multividualism (portraying yourself as different people on different days to you but the same day to the world) to have tried portraying yourself as about four different bots with bc12 on several days.
 
 # How to cure disease
 
