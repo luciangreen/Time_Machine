@@ -2,7 +2,7 @@ main:- N is 73*64,texttobr2_2(N).
 imm_script1:- N is 95*64,texttobr2_2(N).
 bc12:- N is 64,texttobr2_2(N).
 sell :- sell(1).
-sell(N) :- N1 is N*5, bc12(N1).
+sell(N) :- N1 is N*320, texttobr2_2(N1).
 bc12(N):- N1 is N*64,texttobr2_2(N1).
 
 texttobr2 :-
